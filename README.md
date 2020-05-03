@@ -1,3 +1,7 @@
-# Headline
+# Wstęp
 
-> An awesome project.
+Tutaj powstaje dokumentacja do platformy [Skyier](https://skyier.com). 
+
+
+
+![asdfasfasfas](_media/img1.png)
