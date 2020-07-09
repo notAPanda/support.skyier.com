@@ -169,7 +169,7 @@ Cena kursu nie może być niższa niż 5 zł.
 
 1. Aby dodać cenę należy wejść w **Edycję kursu.**
 
-![asdfasfasfas](_media/screen-edycja-kursu.jpg)
+
 
 2. Następnie przejść do sekcji **CENA.** 
 
@@ -179,10 +179,16 @@ Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawi
 
 ![asdfasfasfas](_media/screen-cena-promocyjna-web.png)
 
-Przy ustalaniu ceny promocyjnej należy podać:
-* cenę standardową
-* cenę promocyjną
-* okres trwania promocji 
+**Przy ustalaniu ceny promocyjnej należy podać:**
+* **cenę standardową**
+* **cenę promocyjną**
+* **okres trwania promocji** 
 
 Po zakończeniu promocji cena promocyjna zmieni się automatycznie na cenę standardową. 
+
+**Przykład:** Koniec trwania promocji to 23 czerwiec. Zmiana ceny nastąpi 23 czerwca o godzinie 00.00. Dlatego, jeśli chcesz, aby cena promocyjna obowiązywała do końca 23 czerwca, wybierz datę 24 czerwca. 
+
+Jeśli chcesz udostępnić ograniczoną ilość kursów w cenie promocyjnej skorzystaj z opcji **Promo limit.** 
+
+Podaj ilość dostępnych kursów w niższej cenie. W tym wypadku zmiana ceny z promocyjnej na standardową nastąpi w momencie sprzedaży wszystkich kursów w niższej cenie lub w momencie zakończenia promocji (według ustawionej daty). W zależności od tego, która sytuacja nastąpi pierwsza. 
 
