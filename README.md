@@ -177,7 +177,7 @@ Cena kursu nie może być niższa niż 5 zł.
 
 Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawiona w taki sposób. 
 
-![asdfasfasfas](_media/screen-cena-promocyjna-web.png)
+![asdfasfasfas](_media/screen-cena-promocyjna-web.jpg)
 
 **Przy ustalaniu ceny promocyjnej należy podać:**
 * **cenę standardową**
