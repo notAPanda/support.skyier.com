@@ -169,7 +169,7 @@ Cena kursu nie może być niższa niż 5 zł.
 
 1. Aby dodać cenę należy wejść w **Edycję kursu.**
 
-
+![asdfasfasfas](_media/screen-edycja-kursu-2.jpg)
 
 2. Następnie przejść do sekcji **CENA.** 
 
