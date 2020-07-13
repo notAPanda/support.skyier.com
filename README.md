@@ -243,3 +243,19 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 ![asdfasfasfas](_media/screen-dostep-czasowy.png)
 
 **0 - oznaczania nieograniczony dostęp.** 
+
+#### Ustawienie lekcji jako darmowej
+
+1. Aby ustawić wybraną lekcją jako darmową do obejrzenia należy wejść w **Lista lekcji.**
+
+![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
+
+2. Następnie kliknąć w ikonkę **$**. 
+
+![asdfasfasfas](_media/screen-lekcja-darmowa.jpg)
+
+![asdfasfasfas](_media/screen-lekcja-darmowa-bez.jpg)
+
+Na liście lekcji (pod warunkiem, że na stronie sprzedażowej dodasz komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
+
+![asdfasfasfas](_media/screen-lista-lekcji.png)
