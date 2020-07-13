@@ -171,11 +171,11 @@ Cena kursu nie może być niższa niż 5 zł.
 
 ![asdfasfasfas](_media/screen-edycja-kursu-2.jpg)
 
-2. Następnie przejść do sekcji **CENA.** 
+2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Kurs jest dostępny w cenie promocyjnej.* 
 
 ![asdfasfasfas](_media/screen-cena-promocyjna.jpg)
 
-Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawiona w taki sposób. 
+**Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawiona w taki sposób.** 
 
 ![asdfasfasfas](_media/screen-cena-promocyjna-web.jpg)
 
@@ -186,9 +186,60 @@ Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawi
 
 Po zakończeniu promocji cena promocyjna zmieni się automatycznie na cenę standardową. 
 
-**Przykład:** Koniec trwania promocji to 23 czerwiec. Zmiana ceny nastąpi 23 czerwca o godzinie 00.00. Dlatego, jeśli chcesz, aby cena promocyjna obowiązywała do końca 23 czerwca, wybierz datę 24 czerwca. 
+**Przykład:** Koniec trwania promocji to 23 czerwiec. Zmiana ceny nastąpi 23 czerwca o godzinie 00.00. Jeśli cena promocyjna ma obowiązywać do końca 23 czerwca należy ustawić datę 24 czerwca. 
 
-Jeśli chcesz udostępnić ograniczoną ilość kursów w cenie promocyjnej skorzystaj z opcji **Promo limit.** 
+Aby udostępnić ograniczoną ilość kursów w cenie promocyjnej należy skorzystać z opcji **Promo limit.** 
 
 Podaj ilość dostępnych kursów w niższej cenie. W tym wypadku zmiana ceny z promocyjnej na standardową nastąpi w momencie sprzedaży wszystkich kursów w niższej cenie lub w momencie zakończenia promocji (według ustawionej daty). W zależności od tego, która sytuacja nastąpi pierwsza. 
 
+**-1 oznacza nieskoczoną ilość kursów dostępnych w cenie promocyjnej.**
+
+<br>
+
+#### Ustawianie kursu jako darmowy
+
+1. Aby ustawić kurs jako darmowy należy wejść w **Edycję kursu.**
+
+![asdfasfasfas](_media/screen-edycja-kursu.jpg)
+
+2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Kurs jest darmowy.* 
+
+![asdfasfasfas](_media/screen-kurs-darmowy.jpg)
+
+**Na stronie sprzedażowej zamiast przycisku umożliwiającego zakup kurs pojawi się przycisk OGLĄDAJ TERAZ. Po kliknięciu w przycisk użytkownik przejdzie od razu do oglądania kursu.** 
+
+![asdfasfasfas](_media/screen-ogladaj-teraz-kurs-darmowy.png)
+
+<br>
+
+#### Ustawianie kursu jako możliwego do obejrzenia po zostawieniu adresu e-mail.
+
+1. Aby ustawić kurs jako darmowy należy wejść w **Edycję kursu.**
+
+![asdfasfasfas](_media/screen-edycja-kursu.jpg)
+
+2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Kurs jest darmowy oraz Uczestnicy muszą się zalogować do platformy, aby móc objerzeć kurs za darmo.*
+
+![asdfasfasfas](_media/screen-kurs-darmowy-po-zostawieniu-email.png)
+
+**Na stronie sprzedażowej zamiast przycisku umożliwiającego zakup kurs pojawi się przycisk OGLĄDAJ TERAZ.**
+
+![asdfasfasfas](_media/screen-ogladaj-teraz-kurs-darmowy.png)
+
+Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracji/logowania w celu otrzymania dostępu do kursu.
+
+![asdfasfasfas](_media/screen-kurs-darmowy-logowanie-rejestracja.png)
+
+<br>
+
+#### Ustawianie czasu dostępu do kursu 
+
+1. Aby ustawić określony czas dostępu do kursu należy wejść w **Edycję kursu.**
+
+![asdfasfasfas](_media/screen-edycja-kursu.jpg)
+
+2. Następnie przejść do sekcji **SZCZEGÓŁY** i wpisać przez ile dni kurs ma być dostępny dla studenta po zakupie.
+
+![asdfasfasfas](_media/screen-dostep-czasowy.png)
+
+**0 - oznaczania nieograniczony dostęp.** 
