@@ -259,3 +259,73 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 Na liście lekcji (pod warunkiem, że na stronie sprzedażowej dodasz komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
 
 ![asdfasfasfas](_media/screen-lista-lekcji.png)
+
+<br>
+
+#### Ustawienie lekcji jako możliwej do obejrzenia po zostawieniu e-mail
+
+1. Aby ustawić wybraną lekcją jako darmową do obejrzenia należy wejść w **Lista lekcji.**
+
+![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
+
+2. Kliknąć w ikonkę **$**. 
+
+![asdfasfasfas](_media/screen-lekcja-darmowa.jpg)
+
+3. Następnie kliknąć w ikonkę **user-**, aby przestawiła się na **user+**. 
+
+![asdfasfasfas](_media/screen-lekcja-darmowa-z.jpg)
+
+Na liście lekcji (pod warunkiem, że na stronie sprzedażowej dodasz komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
+
+![asdfasfasfas](_media/screen-lista-lekcji.png)
+
+![asdfasfasfas](_media/screen-panel-nauki-logowanie-lekcja.png)
+
+Lekcję możliwią do obejrzenia po zostawieniu e-mail można ustawić tylko przy kursie płatnym. Dlatego użytkownik również ma możliwość dokonania od razu zakupu kursu, wybierając opcję **Kup teraz.** 
+
+<br>
+
+#### Dodawanie wideo, audio, pdf, doc, excel
+
+1. Aby dodać materiały szkoleniowe należy wejść w **Lista lekcji.**
+
+![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
+
+2. Następnie utworzyć strukturę kursu, dzieląc go na **moduły i lekcje.** 
+
+![asdfasfasfas](_media/screen-dodawanie-materialow.png)
+
+Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skład poszczególnych modułów. 
+
+3. Kliknij w **tytuł lekcji** lub opcję **Edytuj**, aby przejść do dodawania materiałów wchodzących w skład lekcji.
+
+![asdfasfasfas](_media/screen-edycja-lekcji.jpg)
+
+4. **Wybierz komponent z lewej strony, a anstępnie przenieś go na prawą (TEKST, ZDJĘCIE, WIDEO, PDF, itd.).** Można dodać nieograniczoną ilość komponentów i komponenty mogą się powtarzać. 
+
+<br>
+
+#### Strona główna z kursami online
+
+1. Aby stworzyć stronę główną ze swoimi kursami należy wejść w **Ustawienia strony -> Edytuj wygląd strony**
+
+![asdfasfasfas](_media/screen-edytuj-wyglad-strony.jpg)
+
+2. **A następnie wybierz komponenty, z jakich powinna być zbudowana strona główna.** Przeciągając je na prawą stronę.
+
+![asdfasfasfas](_media/screen-komponenty-strona-glowna.png)
+
+<br/>
+
+#### Strona sprzedażowa kursu online
+
+1. Aby stworzyć stronę sprzedażową kursu należy wybrać **Strona sprzedażowa.** 
+
+![asdfasfasfas](_media/screen-strona-sprzedazowa-edycja.jpg)
+
+2. **A następnie wybierz komponenty, z jakich powinna być zbudowana strona sprzedażowa.** Przeciągając je na prawą stronę.
+
+![asdfasfasfas](_media/screen-strona-sprzedazowa.png)
+
+
