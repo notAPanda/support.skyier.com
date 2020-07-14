@@ -194,6 +194,53 @@ Podaj ilość dostępnych kursów w niższej cenie. W tym wypadku zmiana ceny z 
 
 **-1 oznacza nieskoczoną ilość kursów dostępnych w cenie promocyjnej.**
 
+**W momencie ustawienia Ceny promocyjnej, nie zadziała funkcja Kodów rabatowych.**
+
+<br>
+
+#### Ustalanie ceny dla wielu licencji
+
+1. Aby dodać cenę należy wejść w **Edycję kursu.**
+
+![asdfasfasfas](_media/screen-edycja-kursu-2.jpg)
+
+2. Przejść do sekcji **CENA** i zaznaczyć opcję *Możliwość zakupu wiele licencji.* 
+
+![asdfasfasfas](_media/screen-wiele-licencji.jpg)
+
+3. A następnie dodać różne warianty cenowe, poprzez wybranie opcji *Dodaj wariant cenowy.*
+
+![asdfasfasfas](_media/screen-warianty-cenowe-przyklady.png)
+
+
+Kiedy użytkownik będzie chciał kupić 1-4 licencje, to za każdą zapłaci po 70 zł, 5-19 licencji, to za każdą zapłaci 60 zł, powyżej 20 licencji, to za każdą zapłaci 50 zł. 
+
+![asdfasfasfas](_media/screen-checkout-licencje.png)
+
+Natomiast, kiedy dodatkowo zostanie włączona opcję *Sztywne warianty cenowe* można narzucić ile licencji może kupić użytkownik. W poniższym przykładzie jest to: 1, 5 lub 20. 
+
+![asdfasfasfas](_media/screen-sztywne-warianty.png)
+
+I wówczas na stronie płatności wybór ilości licencji wygląda tak:
+
+![asdfasfasfas](_media/screen-sztywne-warianty-checkout.jpg)
+
+Po zakupie użytkownik przechodzi do panelu Zarządzania dostępami, gdzie podaje adresy e-mail osób, które powinny mieć dostęp do kursu. 
+
+![asdfasfasfas](_media/screen-zarzadzanie-dostepami.png)
+
+Osoby przynająca dostępy ma do dyspozycji tylko tyle dostępów, ile zostało wykupionych. 
+
+Dostęp do kursu jest przyznawany w momencie, kiedy użytkownik przyjmnie zaproszenie. 
+
+Jeśli zaproszenie nie zostanie przyjęte, osoba zarządzająca dostępami może takie zaproszenie usunąć i wysyłać dla innej osoby.
+
+Jeśli osoba zarządzająca dostępami chce mieć dostęp do kursu to musi zaproszenie wysłać również sobie.
+
+![asdfasfasfas](_media/screen-dodawanie-e-mail.png)
+
+W przypadku sprzedaży kursów w modelu wielu licencji nie działa funkcja **Kodów rabatowych.**
+
 <br>
 
 #### Ustawianie kursu jako darmowy
@@ -327,5 +374,9 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 2. **A następnie wybierz komponenty, z jakich powinna być zbudowana strona sprzedażowa.** Przeciągając je na prawą stronę.
 
 ![asdfasfasfas](_media/screen-strona-sprzedazowa.png)
+
+<br>
+
+
 
 
