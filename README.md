@@ -377,6 +377,28 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 <br>
 
+### Platforma subskrypcyjna
+
+#### Włączenie sprzedaży subskrypcyjnej
+Aby włączyć model sprzedaży subskrypcyjnej należy przejść do **Ustawień strony -> Model pobierania płatności -> zaznaczyć opcję *Model subskrypcyjny*.**
+#### Włączenie sprzedaży subskrypcyjnej i jednorazowej
+Aby włączyć model sprzedaży subskrypcyjnej i jednorazowej należy przejść do **Ustawienia konta -> Model pobierania płatności -> zaznaczyć jednocześnie opcje *Jednorazowe płatności i Model subskrypcyjny*.**
+
+![asdfasfasfas](_media/screen-modele-sprzedazy.png)
+
+#### Ustalenie pakietów subskrypcyjnych
+
+1. Aby ustawić pakiety subskrypcyjne należy przejść do **Ustawiń konta -> Model pobierania płatności, a następnie przy opcji *Model subskrypcyjny* wybrać opcję: *Opcje planów*.**
+
+![asdfasfasfas](_media/screen-opcje-planow.jpg)
+
+2. A następnie wybrać odpowiednie **plany subskrypcyjne.**
+
+**Można włączyć subskrypcje: miesięczną, 3-miesięczną, 6-miesiączną, 12-miesiączną i na zawsze (czyli tzw. life time).** 
+
+![asdfasfasfas](_media/screen-opcje-planow-wyglad.png)
+
+
 
 
 
