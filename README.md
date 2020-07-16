@@ -398,6 +398,22 @@ Aby włączyć model sprzedaży subskrypcyjnej i jednorazowej należy przejść 
 
 ![asdfasfasfas](_media/screen-opcje-planow-wyglad.png)
 
+### Strony dodatkowe
+
+#### Polityka prywatności
+
+Aby dodać Politykę prywatności należy przejść do **Ustawień strony -> Informacje prawne -> Polityka prywatności.** 
+
+#### Regulamin
+
+Aby dodać Politykę prywatności należy przejść do **Ustawień strony -> Informacje prawne -> Regulamin.** 
+
+#### Dodatkowe linki w górnej nawigacji
+
+Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświetlaj dodatkowe linki w nawigacji**. A następnie dodaj nazwy i linki. 
+
+![asdfasfasfas](_media/screen-linki.png)
+
 
 
 
