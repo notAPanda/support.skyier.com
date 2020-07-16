@@ -410,7 +410,7 @@ Aby dodać Politykę prywatności należy przejść do **Ustawień strony -> Inf
 
 #### Dodatkowe linki w górnej nawigacji
 
-Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświetlaj dodatkowe linki w nawigacji**. A następnie dodaj nazwy i linki. 
+Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświetlaj dodatkowe linki w nawigacji**. A następnie dodać dodatkowe nazwy i linki. 
 
 ![asdfasfasfas](_media/screen-linki.png)
 
