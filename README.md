@@ -418,21 +418,25 @@ Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświet
 
 #### Statystyki sprzedaży kursu online
 
-Aby sprawdzić ilość transkacji należy wybrać w górnym menu zakładką SPRZEDAŻ. 
+Aby sprawdzić ilość przeprowadzonych transkacji należy wybrać w górnym menu zakładką SPRZEDAŻ. 
 
 ![asdfasfasfas](_media/screen-sprzedaz.jpg)
 
 Dane na temat sprzedaży można filtrować po:
-* dacie - umożlwia zawężenie sprzedaży do określonego przedziału czasowego
-* statusie - umożlwia sprawdzenie ile transkacji zostało zakończonych, a ile nie.
+* **dacie** - umożliwia zawężenie sprawdzenia sprzedaży do określonego przedziału czasowego
+* **statusie** - umożliwia sprawdzenie, ile transkacji zostało zakończonych, a ile nie.
 
 Transkacje otrzymują status:
 
-** OK/PERFORMED - oznacza transkację, która została zakończona. Przeszła pomyślnie.
-** STARTED - oznacza transkację, która została rozpoczęta, ale nie ukończona. Użytkownik nie zakończył procesu zakupowego, jest to tzw. porzucony koszyk.
+-> OK/PERFORMED - oznacza transkację, która została zakończona. Użytkownik przeszedł przez cały proces zakupowy i otrzymał dostęp do kursu. 
 
-* kodach promocyjnych - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego kodu. 
-* afiliacji - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie, kiedy zostanie prowadzona sprzedaż przy pomocy linków. 
+-> STARTED - oznacza transkację, która została rozpoczęta, ale nie ukończona. Użytkownik nie zakończył procesu zakupowego i nie otrzymał dostępu do kursu (tzw. porzucony koszyk).
+
+* **kodach promocyjnych** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego kodu. 
+* **afiliacji** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie, kiedy zostanie prowadzona sprzedaż przy pomocy linków afiliacyjnych. 
+* **filtrze kursów** - umożliwia sprawdzenie wysokości sprzedaży konkretnego kursu. 
+
+Można również zastosować kilka filtrów równocześnie. 
 
 #### Statystyki uczestników
 #### Statystyki zaangażowania
