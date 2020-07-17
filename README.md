@@ -423,7 +423,7 @@ Aby sprawdzić ilość przeprowadzonych transkacji należy wybrać w górnym men
 ![asdfasfasfas](_media/screen-sprzedaz.jpg)
 
 Dane na temat sprzedaży można filtrować po:
-* **dacie** - umożliwia zawężenie sprawdzenia sprzedaży do określonego przedziału czasowego
+* **dacie** - umożliwia zawężenie sprzedaży do określonego przedziału czasowego
 * **statusie** - umożliwia sprawdzenie, ile transkacji zostało ukończonych, a ile nie.
 
 Transkacje otrzymują status:
@@ -448,7 +448,7 @@ Aby sprawdzić ilość zarejestrowanych studentów w platformie należy wybrać 
 
 Dane na temat sprzedaży można filtrować po:
 * **mailu** - umożliwia wyfiltrowanie konkretnego studenta
-* **dacie** - umożliwia zawężenie sprawdzanie rejestracji uczestników dokonanych w określonym przedziale czasowym
+* **dacie** - umożliwia zawężenie dokonanych rejestracji w określonym czasie
 * **afiliacji** - umożliwia sprawdzenie, ilu uczestników zarejestrowało się przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie uruchomienia promocji przy pomocy linków afiliacyjnych. 
 * **kursie** - umożliwia sprawdzenie, ilu uczestników jest w danym kursie. Na liście pojawiają się wyłącznie studenci, którzy dokonali zakupu kursu lub, którym został przyznany dostęp. Nie pojawiają się uczestnicy, którzy dokonali rejestracji, w celu zapoznania się z materiałem darmowym. 
 
@@ -462,17 +462,20 @@ Aby sprawdzić zaangażowanie uczestników kursu należy wejść w Statystyki da
 
 Wówczas pokaże się kilka danych, które można wykorzystać do analizy.
 
-![asdfasfasfas](_media/screen-ikonki-zaangazowanie.jpg)
+![asdfasfasfas](_media/screen-ikonki-zaangazowanie.png)
 
 Ikonka:
-* **gwiazdki** - oznacza ilość uczestników, jakie oznaczyły lekcję jako ulubioną
+* **gwiazdki** - oznacza ilość uczestników, którzy oznaczyli lekcję jako ulubioną. Studenci w panelu nauki mają możliwość oznaczania lekcji jako ulubionych, aby móc do nich szybciej wrócić w razie potrzeby. 
 * **komentarza** - oznacza ilość komentarzy zostawionych pod lekcją
 * **haczyka** - oznacza, ilość uczestników, którzy oznaczyli lekcję jako ukończoną. Studenci w panelu nauki mogą odznaczać, które lekcje zostały przez nich obejrzane i śledzić swój postęp nauki. 
 
+<br/>
 
 #### Statystyki leadów
 
+Aby sprawdzić ilu subskrybentów zapisało się na listę przy danym kursie należy wejść w Leady danego kursu. 
 
+![asdfasfasfas](_media/screen-lead.jpg)
 
 
 
