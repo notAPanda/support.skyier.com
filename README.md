@@ -414,6 +414,30 @@ Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświet
 
 ![asdfasfasfas](_media/screen-linki.png)
 
+### Statystyki
+
+#### Statystyki sprzedaży kursu online
+
+Aby sprawdzić ilość transkacji należy wybrać w górnym menu zakładką SPRZEDAŻ. 
+
+![asdfasfasfas](_media/screen-sprzedaz.jpg)
+
+Dane na temat sprzedaży można filtrować po:
+* dacie - umożlwia zawężenie sprzedaży do określonego przedziału czasowego
+* statusie - umożlwia sprawdzenie ile transkacji zostało zakończonych, a ile nie.
+
+Transkacje otrzymują status:
+
+** OK/PERFORMED - oznacza transkację, która została zakończona. Przeszła pomyślnie.
+** STARTED - oznacza transkację, która została rozpoczęta, ale nie ukończona. Użytkownik nie zakończył procesu zakupowego, jest to tzw. porzucony koszyk.
+
+* kodach promocyjnych - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego kodu. 
+* afiliacji - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie, kiedy zostanie prowadzona sprzedaż przy pomocy linków. 
+
+#### Statystyki uczestników
+#### Statystyki zaangażowania
+#### Statystyki leadów
+
 
 
 
