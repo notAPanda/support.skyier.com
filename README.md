@@ -424,7 +424,7 @@ Aby sprawdzić ilość przeprowadzonych transkacji należy wybrać w górnym men
 
 Dane na temat sprzedaży można filtrować po:
 * **dacie** - umożliwia zawężenie sprawdzenia sprzedaży do określonego przedziału czasowego
-* **statusie** - umożliwia sprawdzenie, ile transkacji zostało zakończonych, a ile nie.
+* **statusie** - umożliwia sprawdzenie, ile transkacji zostało ukończonych, a ile nie.
 
 Transkacje otrzymują status:
 
@@ -432,14 +432,44 @@ Transkacje otrzymują status:
 
 -> STARTED - oznacza transkację, która została rozpoczęta, ale nie ukończona. Użytkownik nie zakończył procesu zakupowego i nie otrzymał dostępu do kursu (tzw. porzucony koszyk).
 
-* **kodach promocyjnych** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego kodu. 
-* **afiliacji** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie, kiedy zostanie prowadzona sprzedaż przy pomocy linków afiliacyjnych. 
-* **filtrze kursów** - umożliwia sprawdzenie wysokości sprzedaży konkretnego kursu. 
+* **kodach promocyjnych** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego kodu 
+* **afiliacji** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie uruchomienia sprzedaży przy pomocy linków afiliacyjnych. 
+* **kursie** - umożliwia sprawdzenie wysokości sprzedaży konkretnego kursu 
 
 Można również zastosować kilka filtrów równocześnie. 
 
+<br/>
+
 #### Statystyki uczestników
+
+Aby sprawdzić ilość zarejestrowanych studentów w platformie należy wybrać w górnym menu zakładkę STUDENCI. 
+
+![asdfasfasfas](_media/screen-studenci.jpg)
+
+Dane na temat sprzedaży można filtrować po:
+* **mailu** - umożliwia wyfiltrowanie konkretnego studenta
+* **dacie** - umożliwia zawężenie sprawdzanie rejestracji uczestników dokonanych w określonym przedziale czasowym
+* **afiliacji** - umożliwia sprawdzenie, ilu uczestników zarejestrowało się przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie uruchomienia promocji przy pomocy linków afiliacyjnych. 
+* **kursie** - umożliwia sprawdzenie, ilu uczestników jest w danym kursie. Na liście pojawiają się wyłącznie studenci, którzy dokonali zakupu kursu lub, którym został przyznany dostęp. Nie pojawiają się uczestnicy, którzy dokonali rejestracji, w celu zapoznania się z materiałem darmowym. 
+
+<br/>
+
 #### Statystyki zaangażowania
+
+Aby sprawdzić zaangażowanie uczestników kursu należy wejść w Statystyki danego kursu. 
+
+![asdfasfasfas](_media/screen-zaangazowanie.jpg)
+
+Wówczas pokaże się kilka danych, które można wykorzystać do analizy.
+
+![asdfasfasfas](_media/screen-ikonki-zaangazowanie.jpg)
+
+Ikonka:
+* **gwiazdki** - oznacza ilość uczestników, jakie oznaczyły lekcję jako ulubioną
+* **komentarza** - oznacza ilość komentarzy zostawionych pod lekcją
+* **haczyka** - oznacza, ilość uczestników, którzy oznaczyli lekcję jako ukończoną. Studenci w panelu nauki mogą odznaczać, które lekcje zostały przez nich obejrzane i śledzić swój postęp nauki. 
+
+
 #### Statystyki leadów
 
 
