@@ -133,7 +133,7 @@ Aby opublikować lekcję należy kliknąć na czerwoną "kropkę" widoczną przy
 
 ![asdfasfasfas](_media/screen-publikacja-lekcji.jpg)
 
-Nieopublikowane lekcje nie są widoczne dla uczestników kursu.  
+Nieopublikowane lekcje nie są widoczne dla uczestnika kursu.  
 
 <br>
 
@@ -145,7 +145,7 @@ Aby opublikować kurs należy kliknąć na szary przełącznik. **Po kliknięciu
 
 Nieopublikowany kurs **nie będzie widoczny na LIŚCIE KURSÓW na stronie głównej,** ani w panelu nauki studenta w zakładce WSZYSTKIE KURSY. 
 
-Jeśli jednak kurs zostanie ustawiony jako szkic po tym, jak użytkownik go kupił. To uczestnik kursu dalej będzie miał do niego dostęp i będzie on widoczny na jego platformie w zakładce MOJE KURSY. 
+Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak użytkownik go kupił. To uczestnik kursu dalej będzie miał do niego dostęp i będzie on widoczny na jego platformie w zakładce MOJE KURSY. 
 
 ![asdfasfasfas](_media/screen-moje-wszystkie-kursy.jpg)
 
@@ -153,11 +153,11 @@ Jeśli jednak kurs zostanie ustawiony jako szkic po tym, jak użytkownik go kupi
 
 #### Ustalanie ceny
 
-1. Aby dodać cenę należy wejść w **Edycję kursu.**
+1. Aby dodać cenę należy wejść do **Edycji kursu.**
 
 ![asdfasfasfas](_media/screen-edycja-kursu.jpg)
 
-2. Następnie przejść do sekcji **CENA.** 
+2. A następnie przejść do sekcji **CENA.** 
 
 ![asdfasfasfas](_media/screen-ustalanie-ceny.jpg)
 
@@ -303,7 +303,7 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 
 ![asdfasfasfas](_media/screen-lekcja-darmowa-bez.jpg)
 
-Na liście lekcji (pod warunkiem, że na stronie sprzedażowej dodasz komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
+Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
 
 ![asdfasfasfas](_media/screen-lista-lekcji.png)
 
@@ -323,7 +323,7 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej dodasz komponent 
 
 ![asdfasfasfas](_media/screen-lekcja-darmowa-z.jpg)
 
-Na liście lekcji (pod warunkiem, że na stronie sprzedażowej dodasz komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
+Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
 
 ![asdfasfasfas](_media/screen-lista-lekcji.png)
 
@@ -335,7 +335,7 @@ Lekcję możliwią do obejrzenia po zostawieniu e-mail można ustawić tylko prz
 
 #### Dodawanie wideo, audio, pdf, doc, excel
 
-1. Aby dodać materiały szkoleniowe należy wejść w **Lista lekcji.**
+1. Aby dodać materiały szkoleniowe należy przejść do **Lista lekcji.**
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
@@ -355,11 +355,11 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 #### Strona główna z kursami online
 
-1. Aby stworzyć stronę główną ze swoimi kursami należy wejść w **Ustawienia strony -> Edytuj wygląd strony**
+1. Aby stworzyć stronę główną ze swoimi kursami należy przejść do **Ustawień strony -> Edytuj wygląd strony**
 
 ![asdfasfasfas](_media/screen-edytuj-wyglad-strony.jpg)
 
-2. **A następnie wybierz komponenty, z jakich powinna być zbudowana strona główna.** Przeciągając je na prawą stronę.
+2. **A następnie wybierać komponenty, z jakich powinna być zbudowana strona główna.** Przeciągając je na prawą stronę.
 
 ![asdfasfasfas](_media/screen-komponenty-strona-glowna.png)
 
@@ -371,7 +371,7 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 ![asdfasfasfas](_media/screen-strona-sprzedazowa-edycja.jpg)
 
-2. **A następnie wybierz komponenty, z jakich powinna być zbudowana strona sprzedażowa.** Przeciągając je na prawą stronę.
+2. **A następnie wybierać komponenty, z jakich powinna być zbudowana strona sprzedażowa.** Przeciągając je na prawą stronę.
 
 ![asdfasfasfas](_media/screen-strona-sprzedazowa.png)
 
@@ -456,7 +456,7 @@ Dane na temat sprzedaży można filtrować po:
 
 #### Statystyki zaangażowania
 
-Aby sprawdzić zaangażowanie uczestników kursu należy wejść w Statystyki danego kursu. 
+Aby sprawdzić zaangażowanie uczestników kursu należy przejść do  Statystyk danego kursu. 
 
 ![asdfasfasfas](_media/screen-zaangazowanie.jpg)
 
@@ -465,17 +465,38 @@ Wówczas pokaże się kilka danych, które można wykorzystać do analizy.
 ![asdfasfasfas](_media/screen-ikonki-zaangazowanie.png)
 
 Ikonka:
-* **gwiazdki** - oznacza ilość uczestników, którzy oznaczyli lekcję jako ulubioną. Studenci w panelu nauki mają możliwość oznaczania lekcji jako ulubionych, aby móc do nich szybciej wrócić w razie potrzeby. 
-* **komentarza** - oznacza ilość komentarzy zostawionych pod lekcją
-* **haczyka** - oznacza, ilość uczestników, którzy oznaczyli lekcję jako ukończoną. Studenci w panelu nauki mogą odznaczać, które lekcje zostały przez nich obejrzane i śledzić swój postęp nauki. 
+* **gwiazdki** - oznacza ilość uczestników, którzy oznaczyli lekcję jako ulubioną. Studenci w panelu nauki mają możliwość oznaczania lekcji jako ulubionej, aby móc do niej szybciej wrócić w razie potrzeby. 
+* **komentarzy** - oznacza ilość komentarzy zostawionych pod lekcją
+* **haczyka** - oznacza, ilość uczestników, którzy oznaczyli lekcję jako ukończoną. Studenci w panelu nauki mogą odznaczać, lekcje, które zostały przez nich obejrzane i śledzić swój postęp nauki. 
 
 <br/>
 
 #### Statystyki leadów
 
-Aby sprawdzić ilu subskrybentów zapisało się na listę przy danym kursie należy wejść w Leady danego kursu. 
+Aby sprawdzić ilu subskrybentów zapisało się na listę przy danym kursie należy wybrać **Leady** przy danym kursie. 
 
 ![asdfasfasfas](_media/screen-lead.jpg)
 
+### Pozostałe funkcjonalności 
+
+#### Komentarze
+
+1. Aby włączyć możliwość dodawania komentarzy pod lekcję należy przejść do **Listy lekcji**.
+
+![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
+
+2. A następnie przy wybranej lekcji kliknąć **ikonkę "komentarza".**
+
+![asdfasfasfas](_media/screen-komentarz-1.jpg)
+
+![asdfasfasfas](_media/screen-komentarz-2.jpg)
+
+Jeśli chcesz otrzymywać na maila powiadomienia na temat dodanych komentarzy to przejdź do **Ustawień strony -> Powiadomienia** -> zaznacz opcję *Chcę otrzymywać powiadomienia o nowych komentarzach.*
+
+![asdfasfasfas](_media/screen-powiadomienia-komentarze.png)
+
+Aby sprawdzić swoje wszystkie komentarze, należy wybrać zakładkę **KOMENTARZE** w górnym menu. 
+
+![asdfasfasfas](_media/screen-powiadomienia-komentarze.jpg)
 
 
