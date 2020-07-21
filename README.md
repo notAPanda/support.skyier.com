@@ -489,14 +489,16 @@ Aby sprawdzić ilu subskrybentów zapisało się na listę przy danym kursie nal
 
 ![asdfasfasfas](_media/screen-komentarz-1.jpg)
 
+Wówczas szara przekreślona ikonka zmieni się na czarną ikonkę bez przekreślenia. To oznacza, że możliwość dodawania komentarzy została włączona. 
+
 ![asdfasfasfas](_media/screen-komentarz-2.jpg)
 
-Jeśli chcesz otrzymywać na maila powiadomienia na temat dodanych komentarzy to przejdź do **Ustawień strony -> Powiadomienia** -> zaznacz opcję *Chcę otrzymywać powiadomienia o nowych komentarzach.*
+Aby otrzymywać na maila powiadomienia na temat dodawanych komentarzy należy przejść do **Ustawień strony -> Powiadomienia** -> i zaznaczyć opcję *Chcę otrzymywać powiadomienia o nowych komentarzach.* 
 
 ![asdfasfasfas](_media/screen-powiadomienia-komentarze.png)
 
-Aby sprawdzić swoje wszystkie komentarze, należy wybrać zakładkę **KOMENTARZE** w górnym menu. 
+Aby sprawdzić wszystkie swoje komentarze, należy wybrać zakładkę **KOMENTARZE** w górnym menu. 
 
-![asdfasfasfas](_media/screen-powiadomienia-komentarze.jpg)
+![asdfasfasfas](_media/komentarze.jpg)
 
 
