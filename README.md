@@ -139,7 +139,7 @@ Nieopublikowane lekcje nie są widoczne dla uczestnika kursu.
 
 #### Publikacja kursu 
 
-Aby opublikować kurs należy kliknąć na szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że kurs został opublikowany. 
+Aby opublikować kurs należy kliknąć szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że kurs został opublikowany. 
 
 ![asdfasfasfas](_media/screen-publikacja-kursu.jpg)
 
@@ -442,7 +442,7 @@ Można również zastosować kilka filtrów równocześnie.
 
 #### Statystyki uczestników
 
-Aby sprawdzić ilość zarejestrowanych studentów w platformie należy wybrać w górnym menu zakładkę STUDENCI. 
+Aby sprawdzić ilu studentów jest zarejestrowanych w platformie należy wybrać w górnym menu zakładkę STUDENCI. 
 
 ![asdfasfasfas](_media/screen-studenci.jpg)
 
@@ -493,7 +493,7 @@ Wówczas szara przekreślona ikonka zmieni się na czarną ikonkę bez przekreś
 
 ![asdfasfasfas](_media/screen-komentarz-2.jpg)
 
-Aby otrzymywać na maila powiadomienia na temat dodawanych komentarzy należy przejść do **Ustawień strony -> Powiadomienia** -> i zaznaczyć opcję *Chcę otrzymywać powiadomienia o nowych komentarzach.* 
+Aby otrzymywać na maila powiadomienia o nowych komentarzach należy przejść do **Ustawień strony -> Powiadomienia** -> i zaznaczyć opcję *Chcę otrzymywać powiadomienia o nowych komentarzach.* 
 
 ![asdfasfasfas](_media/screen-powiadomienia-komentarze.png)
 
@@ -501,4 +501,21 @@ Aby sprawdzić wszystkie swoje komentarze, należy wybrać zakładkę **KOMENTAR
 
 ![asdfasfasfas](_media/komentarze.jpg)
 
+#### Artykuły 
+
+1. Aby włączyć możliwość dodawania artykułów należy przejść do **Ustawień strony -> Funkcje, a następnie włączyć opcję:** *Włącz funkcję dodawania artykułów.* 
+
+Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na przykład Blog.
+
+![asdfasfasfas](_media/screen-blog.jpg)
+
+**2. Następnie wybierz w górnym menu zakładkę ARTYKUŁY**
+
+**3. Kliknij w przycisk +Dodaj artykuł.**
+
+![asdfasfasfas](_media/screen-dodaj-artykul.jpg)
+
+Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że kurs został opublikowany. 
+
+![asdfasfasfas](_media/screen-publikacja-artykulu.jpg)
 
