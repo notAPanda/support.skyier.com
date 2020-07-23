@@ -519,3 +519,47 @@ Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięci
 
 ![asdfasfasfas](_media/screen-publikacja-artykulu.jpg)
 
+#### Kody rabatowe
+
+1. Aby stworzyć kod rabatowy należy wybrać w górnym menu zakładkę **SPRZEDAŻ.**
+
+2. A następnie **Kody promocyjne.**
+
+![asdfasfasfas](_media/screen-kody.jpg)
+
+3. Kliknij w **przycisk +Dodaj** i pojawi się krótki formularz do wypełnienia
+
+![asdfasfasfas](_media/screen-dodaj-kod.jpg)
+
+Podaj:
+* tytuł - tak, abys wiedział, po co ten kod został stworzony
+* kod - nazwa, jaką użytkownicy będą musieli wpisać, aby rabat został naliczony
+* wartość - wielkość rabatu, jaki chcesz przyznać, np. 30
+
+4. Wybierz kursy, które ten kod będzie obejmował:
+
+* wszystkie kursy - kod będzie naliczał rabat na wszystkie produkty, jakie posiadasz w ofercie. Czyli na kursy pojedyncze, pakiety i subskrypcję. 
+* subskrypcja - kod będzie obejmował wyłącznie rabat na ofertę subskrypcyjną. 
+* produkty z pojedynczą płatnością - kod będzie naliczał rabat tylko na kursy pojedyncze i pakiety. 
+
+5. Aktywuj kod rabatowy. Aby to zrobić należy kliknąć w szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że kod został aktywowany. 
+
+![asdfasfasfas](_media/screen-kod-aktywacja.jpg)
+
+Jeśli chcesz, aby rabat naliczał się po wpisaniu kodu w Pole rabatowe na stronie płatności to należy wejść w Ustawienia strony -> Funkcje -> i zaznacz opcję *Wyświetlaj pole do wpisania kodu rabatowego na stronie zakupowej.* 
+
+Pole to pojawi się nad przyciskiem KUP TERAZ.
+
+![asdfasfasfas](_media/screen-kod-rabatowy.jpg)
+
+Jeśli natomiast chcesz, aby rabat się naliczał od razu po przejściu na stronę z linku. To należy do adresu url strony dodać na końcu odpowiedni parametr, np: /?promo_code=109.
+
+I wówczas taki link przyjąłby postać https://inspiracje.skyier.pl/numer-piec-strona-do-sprzedazy-kursu-online/checkout/?promo_code=70. Przy tym rozwiązaniu również rabar naliczy się automatycznie. 
+
+![asdfasfasfas](_media/screen-kod-link.jpg)
+
+
+
+
+
+
