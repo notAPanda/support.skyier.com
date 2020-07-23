@@ -521,13 +521,13 @@ Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięci
 
 #### Kody rabatowe
 
-1. Aby stworzyć kod rabatowy należy wybrać w górnym menu zakładkę **SPRZEDAŻ.**
+1. Aby stworzyć kod rabatowy wybierz w górnym menu zakładkę **SPRZEDAŻ.**
 
 2. A następnie **Kody promocyjne.**
 
 ![asdfasfasfas](_media/screen-kody.jpg)
 
-3. Kliknij w **przycisk +Dodaj** i pojawi się krótki formularz do wypełnienia
+3. Kliknij w **przycisk +Dodaj** i pojawi się krótki formularz do wypełnienia.
 
 ![asdfasfasfas](_media/screen-dodaj-kod.jpg)
 
