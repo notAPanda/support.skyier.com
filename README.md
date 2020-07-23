@@ -515,7 +515,7 @@ Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na prz
 
 ![asdfasfasfas](_media/screen-dodaj-artykul.jpg)
 
-Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że kurs został opublikowany. 
+Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że artykuł został opublikowany. 
 
 ![asdfasfasfas](_media/screen-publikacja-artykulu.jpg)
 
