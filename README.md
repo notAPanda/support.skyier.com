@@ -501,6 +501,8 @@ Aby sprawdzić wszystkie swoje komentarze, należy wybrać zakładkę **KOMENTAR
 
 ![asdfasfasfas](_media/komentarze.jpg)
 
+<br>
+
 #### Artykuły 
 
 1. Aby włączyć możliwość dodawania artykułów należy przejść do **Ustawień strony -> Funkcje, a następnie włączyć opcję:** *Włącz funkcję dodawania artykułów.* 
@@ -518,6 +520,8 @@ Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na prz
 Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że artykuł został opublikowany. 
 
 ![asdfasfasfas](_media/screen-publikacja-artykulu.jpg)
+
+<br>
 
 #### Kody rabatowe
 
@@ -557,6 +561,31 @@ Jeśli natomiast chcesz, aby rabat się naliczał od razu po przejściu na stron
 I wówczas taki link przyjmie postać https://inspiracje.skyier.pl/numer-piec-strona-do-sprzedazy-kursu-online/checkout/?promo_code=70. I rabat zostanie naliczony automatycznie, bez konieczności wpisywania kodu w Pole rabatowe. 
 
 ![asdfasfasfas](_media/screen-kod-link.jpg)
+
+<br>
+
+#### Ukryj na liście kursów
+
+1. Aby ukryć kurs na Liście kursów należy wejść w **Edycję kursu.** 
+
+![asdfasfasfas](_media/screen-edycja-kursu.jpg)
+
+2. A następnie przejść do **sekcji SZCZEGÓŁY** i zaznaczyć opcję *Ukryj na liście kursów*. Szary przełącznik **po kliknięciu zmieni kolor na niebieski,** co oznacza, że kurs został ukryty. 
+
+![asdfasfasfas](_media/screen-ukryj.jpg)
+
+**Kurs nie będzie widoczny na Liście kursów** (na stronie głównej).
+
+![asdfasfasfas](_media/screen-lista-kursów.jpg)
+
+oraz na **liście WSZYSTKIE KURSY**, po zalogowaniu przez uczestnika do platformy.
+
+![asdfasfasfas](_media/screen-wszystkie-kursy.jpg)
+
+**Link do "ukrytego" kursu można udostępnić tylko dla wybranych osób. Osoby, które zakupią kurs będą go widziały na LIŚCIE SWOICH KURSÓW, po zalogowaniu do swojej platformy.** 
+
+
+
 
 
 
