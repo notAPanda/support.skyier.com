@@ -584,6 +584,27 @@ oraz na **liście WSZYSTKIE KURSY**, po zalogowaniu przez uczestnika do platform
 
 **Link do "ukrytego" kursu można udostępnić tylko dla wybranych osób. Osoby, które zakupią kurs będą go widziały na LIŚCIE SWOICH KURSÓW, po zalogowaniu do swojej platformy.** 
 
+<br>
+
+#### Opóźnianie lekcji
+
+1. Aby włączyć opóźnienia lekcji, należy wejść do **Listy lekcji**. 
+
+![asdfasfasfas](_media/screen-lista-lekcji-edycja.jpg)
+
+2. A następnie na poziomie sekcji wybrać opcję *Ustaw opóźnienie sekcji*.
+
+![asdfasfasfas](_media/screen-opoznienie.jpg)
+
+3. I podać, po **ilu dniach od zakupu** ma być dostępna sekcja z lekcjami. 
+
+![asdfasfasfas](_media/screen-wpisanie-dni.jpg)
+
+**Opóźnienie ustawia się na poziomie całej sekcji, a nie poszczególnych lekcji.** Jeśli chcesz, aby opóźnienie dostępu następowało na każdej lekcji, wówczas każda lekcja powinna być w oddzielnej sekcji. 
+
+**I co ważne, opóźnienie odbywa się w stosunku do dnia zakupu kursu.**
+
+Jeśli ustawiamy opóźnienie drugiej sekcji o 2 dni, a opóźnienie trzeciej seksji o 4 dni. To w momencie, kiedy użytkownik kupi kurs 23 czerwca to od razu po zakupie będzie miał dostęp do pierwszej sekcji, 25 czerwca do drugiej, a 27 czerwca do trzeciej. 
 
 
 
