@@ -622,6 +622,10 @@ Statystyki na temat ilości zebranych leadów można znaleźć **w zakładce Lea
 
 ![asdfasfasfas](_media/screen-lead.jpg)
 
+**Komponent ZBIERANIE LEADÓW można dodać tylko na stronach sprzedażowych.**
+
+Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy stworzyć formularz w swoim narzędzie do e-mail marketingu (MailerLite, GetResponse, itp.), a następnie zaembedować kod za pomocą komponentu HTML. 
+
 
 
 
