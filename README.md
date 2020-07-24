@@ -588,7 +588,7 @@ oraz na **liście WSZYSTKIE KURSY**, po zalogowaniu przez uczestnika do platform
 
 #### Opóźnianie lekcji
 
-1. Aby włączyć opóźnienia lekcji, należy wejść do **Listy lekcji**. 
+1. Aby włączyć opóźnienia lekcji, należy przejść do **Listy lekcji**. 
 
 ![asdfasfasfas](_media/screen-lista-lekcji-edycja.jpg)
 
@@ -598,16 +598,29 @@ oraz na **liście WSZYSTKIE KURSY**, po zalogowaniu przez uczestnika do platform
 
 3. I podać, po **ilu dniach od zakupu** ma być dostępna sekcja z lekcjami. 
 
-![asdfasfasfas](_media/screen-wpisanie-dni.jpg)
+![asdfasfasfas](_media/screen-wpisanie-dni.png)
 
 **Opóźnienie ustawia się na poziomie całej sekcji, a nie poszczególnych lekcji.** Jeśli chcesz, aby opóźnienie dostępu następowało na każdej lekcji, wówczas każda lekcja powinna być w oddzielnej sekcji. 
 
 **I co ważne, opóźnienie odbywa się w stosunku do dnia zakupu kursu.**
 
-Jeśli ustawiamy opóźnienie drugiej sekcji o 2 dni, a opóźnienie trzeciej seksji o 4 dni. To w momencie, kiedy użytkownik kupi kurs 23 czerwca to od razu po zakupie będzie miał dostęp do pierwszej sekcji, 25 czerwca do drugiej, a 27 czerwca do trzeciej. 
+Jeśli ustawisz opóźnienie drugiej sekcji o 2 dni, a opóźnienie trzeciej seksji o 4 dni. To w momencie, kiedy użytkownik kupi kurs 23 czerwca to od razu po zakupie będzie miał dostęp do pierwszej sekcji, 25 czerwca do drugiej, a 27 czerwca do trzeciej. 
 
+<br>
 
+#### Leady
 
+Aby zacząć zbierać leady (adresy e-mail) należy na **stronie sprzedażowej dodać komponent ZBIERANIE LEADÓW.**
+
+![asdfasfasfas](_media/screen-leady.jpg)
+
+Wówczas na stronie pojawi się **krótki formularz, z polami: e-mail i imię.** 
+
+![asdfasfasfas](_media/screen-formularz.png)
+
+Statystyki na temat ilości zebranych leadów można znaleźć **w zakładce Leads.** 
+
+![asdfasfasfas](_media/screen-lead.jpg)
 
 
 
