@@ -576,7 +576,7 @@ I wówczas taki link przyjmie postać https://inspiracje.skyier.pl/numer-piec-st
 
 **Kurs nie będzie widoczny na Liście kursów** (na stronie głównej).
 
-![asdfasfasfas](_media/screen-lista-kursów.jpg)
+![asdfasfasfas](_media/screen-lista-kursow.jpg)
 
 oraz na **liście WSZYSTKIE KURSY**, po zalogowaniu przez uczestnika do platformy.
 
