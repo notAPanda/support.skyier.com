@@ -167,9 +167,19 @@ Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak uż
 
 ![asdfasfasfas](_media/screen-id-kursy.jpg)
 
+**Lekcja została skopiowana i możesz ją znaleźć na Liście lekcji kursu, którego ID podałeś.** 
+
 <br>
 
 #### Duplikowanie kursu
+
+Aby zduplikować kurs należy wybrać **Duplikuj** przy opcjach kursu. 
+
+![asdfasfasfas](_media/screen-duplikacja-kursu.jpg)
+
+Zduplikowany kurs pojawi się na dole listy.
+
+**Duplikacja kursu duplikuje: stronę sprzedażową oraz listę lekcji.** 
 
 <br>
 
