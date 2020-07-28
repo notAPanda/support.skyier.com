@@ -151,6 +151,28 @@ Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak uż
 
 <br>
 
+#### Duplikowanie lekcji
+
+1. Aby zduplikować lekcję należy wejść na **Listę lekcji**.
+
+![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
+
+2. A następnie wybrać opcję *Duplikuj*.
+
+![asdfasfasfas](_media/screen-duplikacja-lekcji.jpg)
+
+3. Pojawi się krótki formularz, w którym trzeba **wpisać ID kursu**, do którego ma zostać skopiowana lekcja.
+
+**ID kursu można znaleźć na Liście wszystkich kursów.** 
+
+![asdfasfasfas](_media/screen-id-kursy.jpg)
+
+<br>
+
+#### Duplikowanie kursu
+
+<br>
+
 #### Ustalanie ceny
 
 1. Aby dodać cenę należy wejść do **Edycji kursu.**
@@ -293,7 +315,7 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 
 #### Ustawienie lekcji jako darmowej
 
-1. Aby ustawić wybraną lekcją jako darmową do obejrzenia należy wejść w **Lista lekcji.**
+1. Aby ustawić wybraną lekcją jako darmową do obejrzenia należy wejść w **Listę lekcji.**
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
@@ -311,7 +333,7 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany k
 
 #### Ustawienie lekcji jako możliwej do obejrzenia po zostawieniu e-mail
 
-1. Aby ustawić wybraną lekcją jako darmową do obejrzenia należy wejść w **Lista lekcji.**
+1. Aby ustawić wybraną lekcją jako darmową do obejrzenia należy wejść w **Listę lekcji.**
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
@@ -335,7 +357,7 @@ Lekcję możliwią do obejrzenia po zostawieniu e-mail można ustawić tylko prz
 
 #### Dodawanie wideo, audio, pdf, doc, excel
 
-1. Aby dodać materiały szkoleniowe należy przejść do **Lista lekcji.**
+1. Aby dodać materiały szkoleniowe należy przejść do **Listy lekcji.**
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
