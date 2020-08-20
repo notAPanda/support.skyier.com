@@ -76,6 +76,32 @@ Tutaj wklej kod śledzący. Rekmendowany jest Google Tag Managera.
 
 <br>
 
+### Strona główna z kursami online
+
+1. Aby stworzyć stronę główną ze swoimi kursami należy przejść do **Ustawień strony -> Edytuj wygląd strony**
+
+![asdfasfasfas](_media/screen-edytuj-wyglad-strony.jpg)
+
+2. **A następnie wybierać komponenty, z jakich powinna być zbudowana strona główna.** Przeciągając je na prawą stronę.
+
+![asdfasfasfas](_media/screen-komponenty-strona-glowna.png)
+
+<br/>
+
+### Strona sprzedażowa kursu online
+
+1. Aby stworzyć stronę sprzedażową kursu należy wybrać **Strona sprzedażowa.** 
+
+![asdfasfasfas](_media/screen-strona-sprzedazowa-edycja.jpg)
+
+2. **A następnie wybierać komponenty, z jakich powinna być zbudowana strona sprzedażowa.** Przeciągając je na prawą stronę.
+
+![asdfasfasfas](_media/screen-strona-sprzedazowa.png)
+
+<iframe width="100%" height="550" src="https://player.vimeo.com/video/449606606/?portrait=0&title=0&byline=0" /></iframe>
+
+<br>
+
 ### Tworzenie kursu online
 
 #### Dodawanie kursu online
@@ -385,29 +411,6 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 <br>
 
-#### Strona główna z kursami online
-
-1. Aby stworzyć stronę główną ze swoimi kursami należy przejść do **Ustawień strony -> Edytuj wygląd strony**
-
-![asdfasfasfas](_media/screen-edytuj-wyglad-strony.jpg)
-
-2. **A następnie wybierać komponenty, z jakich powinna być zbudowana strona główna.** Przeciągając je na prawą stronę.
-
-![asdfasfasfas](_media/screen-komponenty-strona-glowna.png)
-
-<br/>
-
-#### Strona sprzedażowa kursu online
-
-1. Aby stworzyć stronę sprzedażową kursu należy wybrać **Strona sprzedażowa.** 
-
-![asdfasfasfas](_media/screen-strona-sprzedazowa-edycja.jpg)
-
-2. **A następnie wybierać komponenty, z jakich powinna być zbudowana strona sprzedażowa.** Przeciągając je na prawą stronę.
-
-![asdfasfasfas](_media/screen-strona-sprzedazowa.png)
-
-<br>
 
 ### Platforma subskrypcyjna
 
