@@ -76,7 +76,11 @@ Tutaj wklej kod śledzący. Rekmendowany jest Google Tag Managera.
 
 <br>
 
-### Strona główna z kursami online
+### Strona główna z kursami online i strona sprzedażowa kursu
+
+<iframe width="100%" height="550" src="https://player.vimeo.com/video/449606606/?portrait=0&title=0&byline=0" /></iframe>
+
+#### Strona główna z kursami
 
 1. Aby stworzyć stronę główną ze swoimi kursami należy przejść do **Ustawień strony -> Edytuj wygląd strony**
 
@@ -88,7 +92,7 @@ Tutaj wklej kod śledzący. Rekmendowany jest Google Tag Managera.
 
 <br/>
 
-### Strona sprzedażowa kursu online
+#### Strona sprzedażowa kursu online
 
 1. Aby stworzyć stronę sprzedażową kursu należy wybrać **Strona sprzedażowa.** 
 
@@ -98,7 +102,6 @@ Tutaj wklej kod śledzący. Rekmendowany jest Google Tag Managera.
 
 ![asdfasfasfas](_media/screen-strona-sprzedazowa.png)
 
-<iframe width="100%" height="550" src="https://player.vimeo.com/video/449606606/?portrait=0&title=0&byline=0" /></iframe>
 
 <br>
 
