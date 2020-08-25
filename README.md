@@ -158,7 +158,7 @@ W przypadku PLIKU możesz wgrać mp3, pdf, doc, docs, xls, xlsx.
 
 #### Publikacja lekcji
 
-Aby opublikować lekcję należy kliknąć na czerwoną "kropkę" widoczną przy lekcji. Po kliknięciu **kolor zmieni się na zielony,** co oznacza, że lekcja została opublikowana. 
+Aby opublikować lekcję należy kliknąć szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że lekcja została opublikowana.  
 
 ![asdfasfasfas](_media/screen-publikacja-lekcji-nowa.jpg)
 
