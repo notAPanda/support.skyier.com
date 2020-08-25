@@ -160,7 +160,7 @@ W przypadku PLIKU możesz wgrać mp3, pdf, doc, docs, xls, xlsx.
 
 Aby opublikować lekcję należy kliknąć na czerwoną "kropkę" widoczną przy lekcji. Po kliknięciu **kolor zmieni się na zielony,** co oznacza, że lekcja została opublikowana. 
 
-![asdfasfasfas](_media/screen-publikacja-lekcji.jpg)
+![asdfasfasfas](_media/screen-publikacja-lekcji-nowa.jpg)
 
 Nieopublikowane lekcje nie są widoczne dla uczestnika kursu.  
 
