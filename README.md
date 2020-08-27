@@ -648,11 +648,11 @@ Jeśli ustawisz opóźnienie drugiej sekcji o 2 dni, a opóźnienie trzeciej sek
 
 #### Leady
 
-Aby zacząć zbierać leady (adresy e-mail) należy na **stronie sprzedażowej dodać komponent ZBIERANIE LEADÓW.**
+1. Aby zacząć zbierać leady (adresy e-mail) należy na **stronie sprzedażowej dodać komponent ZBIERANIE LEADÓW.**
 
 ![asdfasfasfas](_media/screen-leady.jpg)
 
-Wówczas na stronie pojawi się **krótki formularz, z polami: e-mail i imię.** 
+2. Wówczas na stronie pojawi się **krótki formularz, z polami: e-mail i imię.** 
 
 ![asdfasfasfas](_media/screen-formularz.png)
 
@@ -663,6 +663,27 @@ Statystyki na temat ilości zebranych leadów można znaleźć **w zakładce Lea
 **Komponent ZBIERANIE LEADÓW można dodać tylko na stronach sprzedażowych.**
 
 Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy stworzyć formularz w swoim narzędzie do e-mail marketingu (MailerLite, GetResponse, itp.), a następnie zaembedować kod za pomocą komponentu HTML. 
+
+<br>
+
+#### Pakiety
+
+1. Aby stworzyć pakiet składający się z 2,3,4 czy nawet większej ilości kursów należy wybrać opcję **Kursy**. 
+
+2. A następnie kliknąć przycisk **+ Dodaj pakiet**. 
+
+3. Stwórz pakiet z wybranymi kursami
+
+![asdfasfasfas](_tworzenie-pakietu.gif)
+
+
+### Nadawanie dostępów dla studentów
+
+Nadać dostęp studentowi do kursu można na 3 sposoby:
+
+1. Student rejestruje się do platformy, a następnie Ty przyznajesz jemu dostęp do wybranego kursu
+2. Ty zakładasz konto dla studenta, a następnie wysyłasz jemu dane logowania
+3. Tworzysz kod rabatowy na 100% i podajesz go studentom, którzy powinni otrzymać dostęp do kursu
 
 
 
