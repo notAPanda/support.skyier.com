@@ -674,7 +674,7 @@ Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy
 
 3. Stwórz pakiet z wybranymi kursami
 
-![asdfasfasfas](_tworzenie-pakietu.gif)
+![asdfasfasfas](_media/tworzenie-pakietu.gif)
 
 
 ### Nadawanie dostępów dla studentów
