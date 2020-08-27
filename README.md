@@ -670,11 +670,19 @@ Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy
 
 1. Aby stworzyć pakiet składający się z 2,3,4 czy nawet większej ilości kursów należy wybrać opcję **Kursy**. 
 
-2. A następnie kliknąć przycisk **+ Dodaj pakiet**. 
+2. Następnie kliknij przycisk **+Dodaj pakiet**. 
 
-3. Stwórz pakiet z wybranymi kursami
+![asdfasfasfas](_media/screen-kursy-pakiety.jpg)
+
+3. Podaj nazwę pakietu (tą nazwę będzie można potem zmienić).
+
+![asdfasfasfas](_media/screen-kursy-dodaj-pakiet.jpg)
+
+4. **Stwórz pakiet z wybranymi kursami**
 
 ![asdfasfasfas](_media/tworzenie-pakietu.gif)
+
+Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały zawarte w pakiecie. 
 
 
 ### Nadawanie dostępów dla studentów
