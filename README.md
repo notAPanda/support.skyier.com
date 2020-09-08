@@ -684,14 +684,37 @@ Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy
 
 Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały zawarte w pakiecie. 
 
+<br/>
 
 ### Nadawanie dostępów dla studentów
 
-Nadać dostęp studentowi do kursu można na 3 sposoby:
+Dodawanie studenta i przyznawanie dostępu do kursu
 
-1. Student rejestruje się do platformy, a następnie Ty przyznajesz jemu dostęp do wybranego kursu
-2. Ty zakładasz konto dla studenta, a następnie wysyłasz jemu dane logowania
-3. Tworzysz kod rabatowy na 100% i podajesz go studentom, którzy powinni otrzymać dostęp do kursu
+1. Aby dodać studenta do platformy należy wybrać z górnego menu zakłądkę **STUDENCI**.
+2. A następnie kliknąć **Dodaj studenta**. W przypadku, kiedy chcemy dodać większą ilość osób w jednym czasie, należy kliknąć **Importuj studentów**. 
+
+![asdfasfasfas](_media/screen-dodawanie-studentow.jpg)
+
+3. Podajemy imię i adres e-mail studenta, którego chcemy zaprosić. 
+
+![asdfasfasfas](_media/screen-formularz-dodania.jpg)
+
+4. Na podany e-mail uczestnik otrzymuje wiadomość z danymi do logowania (e-mail, hasło). Hasło może zostać przez studenta zmienione po zalogowaniu się do platformy. 
+
+![asdfasfasfas](_media/screen-mail.jpg)
+
+5. Jeśli chcemy dać dostęp studentowi do jakiegoś kursu to:
+
+- klikamy w e-mail studenta i przechodzimy na stronę, gdzie wybieramy kurs
+
+![asdfasfasfas](_media/screen-dostep-kurs.jpg)
+
+- przechodzimy do zakładki **SPRZEDAŻ** -> klikamy **Zarządzaj dostępami** podajemy e-maile oraz wybieramy kurs, do którego uczestnicy powinni mieć dostęp. 
+
+![asdfasfasfas](_media/screen-dostep-kurs-wiele.jpg)
+
+
+
 
 
 
