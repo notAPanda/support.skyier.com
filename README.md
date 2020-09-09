@@ -686,32 +686,31 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 <br/>
 
-### Nadawanie dostępów dla studentów
+### Dodawanie studenta i przyznawanie dostępu do kursu
 
-Dodawanie studenta i przyznawanie dostępu do kursu
 
 1. Aby dodać studenta do platformy należy wybrać z górnego menu zakłądkę **STUDENCI**.
-2. A następnie kliknąć **Dodaj studenta**. W przypadku, kiedy chcemy dodać większą ilość osób w jednym czasie, należy kliknąć **Importuj studentów**. 
+2. A następnie kliknąć **Dodaj studenta**. W przypadku, kiedy chcemy dodać większą ilość osób wybieramy **Importuj studentów**. 
 
 ![asdfasfasfas](_media/screen-dodawanie-studentow.jpg)
 
-3. Podajemy imię i adres e-mail studenta, którego chcemy zaprosić. 
+3. Wpisujemy imię i adres e-mail studenta.
 
-![asdfasfasfas](_media/screen-formularz-dodania.jpg)
+![asdfasfasfas](_media/screen-formularz-dodania.png)
 
-4. Na podany e-mail uczestnik otrzymuje wiadomość z danymi do logowania (e-mail, hasło). Hasło może zostać przez studenta zmienione po zalogowaniu się do platformy. 
+4. Na podany e-mail uczestnik otrzyma wiadomość z danymi do logowania (e-mail, hasło). Hasło może zostać przez studenta zmienione po zalogowaniu do platformy. 
 
 ![asdfasfasfas](_media/screen-mail.jpg)
 
-5. Jeśli chcemy dać dostęp studentowi do jakiegoś kursu to:
+5. Jeśli chcemy dać dostęp studentowi do kursu to możemy to zrobić na dwa sposoby:
 
 - klikamy w e-mail studenta i przechodzimy na stronę, gdzie wybieramy kurs
 
-![asdfasfasfas](_media/screen-dostep-kurs.jpg)
+![asdfasfasfas](_media/screen-dostep-kurs.jpg
 
-- przechodzimy do zakładki **SPRZEDAŻ** -> klikamy **Zarządzaj dostępami** podajemy e-maile oraz wybieramy kurs, do którego uczestnicy powinni mieć dostęp. 
+- przechodzimy do zakładki **SPRZEDAŻ** -> klikamy **Zarządzaj dostępami**, następnie podajemy e-maile oraz wybieramy kurs, do którego uczestnicy powinni mieć dostęp. 
 
-![asdfasfasfas](_media/screen-dostep-kurs-wiele.jpg)
+![asdfasfasfas](_media/screen-dostep-kurs-wiele.png)
 
 
 
