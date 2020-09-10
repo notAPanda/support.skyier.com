@@ -706,7 +706,7 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 - klikamy w e-mail studenta i przechodzimy na stronę, gdzie wybieramy kurs
 
-![asdfasfasfas](_media/screen-dostep-kurs.jpg
+![asdfasfasfas](_media/screen-dostep-kurs.jpg)
 
 - przechodzimy do zakładki **SPRZEDAŻ** -> klikamy **Zarządzaj dostępami**, następnie podajemy e-maile oraz wybieramy kurs, do którego uczestnicy powinni mieć dostęp. 
 
