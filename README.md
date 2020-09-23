@@ -428,8 +428,6 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 5. Kliknij **Zapisz** (niebieski przycisk) i zrób podgląd wiadomości. Sprawdź, czy wszystko się zgadza. Bez wcześniejszego **Zapisu zmian**, podgląd nie będzie widoczny (pojawi się błąd 404). 
 
-![asdfasfasfas](_media/screen-podglad-wiadomosci.png)
-
 6. Stwórz **Stronę sprzedażową**, z informacjami na temat konsultacji i z przyciskiem do zakupu. 
 
 #### Jak działa markdown? 
