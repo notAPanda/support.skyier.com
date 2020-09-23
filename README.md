@@ -414,6 +414,40 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 <br>
 
+### Tworzenie konsultacji
+
+1. Aby dodać konsultację wybierz w górnym menu zakładkę **PRODUKTY**.
+2. A następnie wpisz **Tytuł**, zaznaczyć **Konsultacja online** i kliknij **Dodaj produkt**.
+
+![asdfasfasfas](_media/screen-dodanie-konsultacji.jpg)
+
+3. Wypełnij informacje na temat produktu (opis, cena, seo, obrazy).
+4. Przygotowuj **WIADOMOŚĆ PO ZAKUPIE**. Jest to wiadomość, jaką otrzyma użytkownik na maila po zakupie konsultacji. Jeśli posiadasz swój kalendarz do umawiania spotkań to dobrze jest w takiej wiadomości zamieścić link do takiego kalendarza (Google, Calendly, itp.). Aby użytkownik wybrał dogodny dla siebie termin oraz godzinę. Jeśli jednak nie posiadasz kalendarza to możesz w treści wiadomości napisać krótką instrukcję. 
+
+![asdfasfasfas](_media/screen-tworzenie-wiadomosci.png)
+
+5. Kliknij **Zapisz** (niebieski przycisk) i zrób podgląd wiadomości. Sprawdź, czy wszystko się zgadza. Bez wcześniejszego **Zapisu zmian**, podgląd nie będzie widoczny (pojawi się błąd 404). 
+
+![asdfasfasfas](_media/screen-podglad-wiadomosci.png)
+
+6. Stwórz **Stronę sprzedażową**, z informacjami na temat konsultacji i z przyciskiem do zakupu. 
+
+#### Jak działa markdown? 
+
+Podstawowe znaczniki
+
+# H1. Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać jeden "hasztag". Np. # Dzień dobry
+## H2 Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać dwa "hasztagi". Np. ## Dzień dobry
+### H3 Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać trzy "hasztagi". Np. ### Dzień dobry
+#### H4 Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać cztery "hasztagi". Np. #### Dzień dobry
+##### H5 Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać pięć "hasztagów". Np. ##### Dzień dobry
+###### H6 Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać sześć "hasztagów". Np. ###### Dzień dobry
+
+**wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie "gwiazdki".
+*kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną "gwiazdkę".
+[I'm an inline-style link](https://www.google.com). Aby wstawić link do zdania należy w nawiasach [] wstawić zdanie, które chcemy podlinkować, a obok w nawiasach () wstawić link.
+
+<br>
 
 ### Platforma subskrypcyjna
 
