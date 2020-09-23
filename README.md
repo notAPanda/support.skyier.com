@@ -446,11 +446,11 @@ Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać pięć "h
 <br>
 Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać sześć "hasztagów". Np. ###### Dzień dobry
 
-1. **wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie "**".
+**wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie "**".
 <br>
-2. *kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną "*".
+*kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną "*".
 <br>
-3. [I'm an inline-style link](https://www.google.com). Aby wstawić link do zdania należy w nawiasach [] wstawić zdanie, które chcemy podlinkować, a obok w nawiasach () wstawić link do strony, do której chcemy odesłać użytkownika.
+[I'm an inline-style link](https://www.google.com). Aby wstawić link do zdania należy w nawiasach [] wstawić zdanie, które chcemy podlinkować, a obok w nawiasach () wstawić link do strony, do której chcemy odesłać użytkownika.
 
 <br>
 
