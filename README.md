@@ -434,18 +434,23 @@ Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skła
 
 Podstawowe znaczniki
 
-Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać jeden "hasztag". Np. # Dzień dobry
-Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać dwa "hasztagi". Np. ## Dzień dobry
-Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać trzy "hasztagi". Np. ### Dzień dobry
-Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać cztery "hasztagi". Np. #### Dzień dobry
-Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać pięć "hasztagów". Np. ##### Dzień dobry
-Jeśli chcemy zrobić jakiś nagłówek H1 to należy przed nim dodać sześć "hasztagów". Np. ###### Dzień dobry
+Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać jeden "hasztag". Np. # Dzień dobry
+<br>
+Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać dwa "hasztagi". Np. ## Dzień dobry
+<br>
+Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać trzy "hasztagi". Np. ### Dzień dobry
+<br>
+Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać cztery "hasztagi". Np. #### Dzień dobry
+<br>
+Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać pięć "hasztagów". Np. ##### Dzień dobry
+<br>
+Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać sześć "hasztagów". Np. ###### Dzień dobry
 
-**wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie "**".
+1. **wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie "**".
 <br>
-*kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną "*".
+2. *kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną "*".
 <br>
-[I'm an inline-style link](https://www.google.com). Aby wstawić link do zdania należy w nawiasach [] wstawić zdanie, które chcemy podlinkować, a obok w nawiasach () wstawić link do strony, do której chcemy odesłać użytkownika.
+3. [I'm an inline-style link](https://www.google.com). Aby wstawić link do zdania należy w nawiasach [] wstawić zdanie, które chcemy podlinkować, a obok w nawiasach () wstawić link do strony, do której chcemy odesłać użytkownika.
 
 <br>
 
