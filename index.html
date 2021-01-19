@@ -17,14 +17,17 @@
       themeColor: '#007bff',
       routerMode: 'history',
       logo: '/_media/logo_skyier.png',
+      search: 'auto',
 
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: 'auto',
+        paths: [
+          '/',
+        ],
         placeholder: 'Szukaj...',
         noData: 'Brak wyników',
         // Headline depth, 1 - 6
-        depth: 6,
+        depth: 4,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
      }
     }
