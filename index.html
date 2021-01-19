@@ -20,11 +20,13 @@
 
       search: {
         maxAge: 86400000, // Expiration time, the default one day
-        paths: 'auto',
+        paths: [
+          '/',
+        ],
         placeholder: 'Szukaj...',
         noData: 'Brak wyników',
         // Headline depth, 1 - 6
-        depth: 6,
+        depth: 1,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
      }
     }
