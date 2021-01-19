@@ -210,7 +210,7 @@ Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak uż
 
 ![asdfasfasfas](_media/screen-kopiuj-do.jpg)
 
-2. A następnie przy wybranej lekcji wybrać opcję *Duplikuj do*.
+2. A następnie przy wybranej lekcji wybrać opcję *Kopiuj do*.
 
 ![asdfasfasfas](_media/screen-duplikacja-lekcji.jpg)
 
