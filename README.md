@@ -32,7 +32,7 @@ W poniższym filmiku znajdziesz instrukcję, jak szybko przejść przez Ustawien
 ![asdfasfasfas](_media/wiadomosc-powitalna-kurs.png)
 
 * **Wyświetlaj wiadomość powitalną dla subskrybentów** - zaznacz, jeśli chcesz wyświetlać wiadomość dla studentów, którzy dołączyli do Twojej platformy subskrypcyjnej. Wiadomość będzie widoczna od razu po zalogowaniu do platformy. I będzie wyglądała analogicznie do przykładu zamieszczonego powyżej. 
-* **Chcę wystawiać faktury manulanie** - zaznacz, jeśli chcesz, aby faktura nie została automatycznie wysłana po zakupie kursu. Wówczas, aby wystawić fakturę trzeba wejść w SPRZEDAŻ i przy danej transkacji kliknąć przycisk *attemp*. Aby ta funkcja zadziała potrzeba jest integracja z systemem do fakturowania.
+* **Chcę wystawiać faktury manulanie** - zaznacz, jeśli chcesz, aby faktura nie została automatycznie wysłana po zakupie kursu. Wówczas, aby wystawić fakturę trzeba wejść w SPRZEDAŻ i przy danej transkacji kliknąć przycisk *attempt*. Wystawienie faktur zadziała tylko w momencie, kiedy jest zrobiona integracja z systemem do fakturowania (InFakt, Fakturownia, iFirma, Taxe, Taxxo).
 * **Wyświetlaj pole do wpisania kodu rabatowego na stronie zakupowej** - zaznacz, jeśli chcesz, aby na stronie płatności pojawiło się pole do wpisania kodu promocyjnego dla użytkowników. Pole to pojawi się nad przyciskiem Kup teraz.
 
 ![asdfasfasfas](_media/screen-kod-rabatowy.jpg)
@@ -44,7 +44,7 @@ W poniższym filmiku znajdziesz instrukcję, jak szybko przejść przez Ustawien
 
 * **Wyświetlaj własne pola zgody przy zakupie (zamiast standardowych)** - zaznacz, jeśli chcesz na stronie dokonywania zakupu (checkout) wstawić swoje checkboxy. Możesz dodać ich nieograniczoną ilość, ale wszystkie będą wymagane. W momencie dodania swoich formułek, nasza standardowa nie będzie wyświetlana. 
 
-![asdfasfasfas](_media/screen-formulka.png)
+![asdfasfasfas](_media/screen-formulka-1.png)
 
 * **Wyświetlaj uproszczoną stronę zakupową** - zazacz, jeśli nie chcesz zbierać danych do wystawiania faktur lub rachunków. Wówczas na stronie zakupowej (checkout) będzie widoczny wyłącznie formularz rejestracyjny. 
 
