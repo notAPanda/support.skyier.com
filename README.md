@@ -251,18 +251,15 @@ Cena kursu nie może być niższa niż 5 zł.
 
 ![asdfasfasfas](_media/screen-edycja-kursu-2.jpg)
 
-2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Kurs jest dostępny w cenie promocyjnej.* 
-
-![asdfasfasfas](_media/screen-cena-promocyjna.jpg)
-
-**Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawiona w taki sposób.** 
+2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Produkt jest w promocji.* 
 
 ![asdfasfasfas](_media/screen-cena-promo.png)
+
 
 **Przy ustalaniu ceny promocyjnej należy podać:**
 * **cenę standardową**
 * **cenę promocyjną**
-* **okres trwania promocji** 
+* **okres trwania promocji (od-do)** 
 
 Po zakończeniu promocji cena promocyjna zmieni się automatycznie na cenę standardową. 
 
@@ -273,9 +270,9 @@ Podaj ilość dostępnych kursów w niższej cenie. W tym wypadku zmiana ceny z 
 **-1 oznacza nieskoczoną ilość kursów dostępnych w cenie promocyjnej.**
 
 **W momencie ustawienia Ceny promocyjnej, Kod rabatowy będzie naliczany do ceny standardowej, a nie promocyjnej.**
-Przykład: 
-Cena standardowa kursu - 35 zł
-Cena promocyjna - 12 zł
+Przykład: <br>
+Cena standardowa kursu - 35 zł<br>
+Cena promocyjna - 12 zł<br>
 Cena po uwzględnieniu kodu rabatowego - 17,5 zł
 
 
