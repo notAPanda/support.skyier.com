@@ -214,7 +214,8 @@ Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak uż
 
 ![asdfasfasfas](_media/screen-kopiuj-do.jpg)
 
-3. Zduplikowana lekcja pojawi się na Liście lekcji kursu, do którego została skopiowana. 
+3. I wybrać kurs, do którego chcemy skopiować lekcję. 
+4. Skopiowana lekcja pojawi się na Liście lekcji kursu, do którego została skopiowana. 
 
 <br>
 
