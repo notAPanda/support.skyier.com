@@ -208,11 +208,11 @@ Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak uż
 
 1. Aby skopiować lekcję należy wejść na **Listę lekcji**.
 
-![asdfasfasfas](_media/screen-kopiuj-do.jpg)
+![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
 2. A następnie przy wybranej lekcji wybrać opcję *Kopiuj do*.
 
-![asdfasfasfas](_media/screen-duplikacja-lekcji.jpg)
+![asdfasfasfas](_media/screen-kopiuj-do.jpg)
 
 3. Zduplikowana lekcja pojawi się na Liście lekcji kursu, do którego została skopiowana. 
 
