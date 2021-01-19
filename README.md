@@ -257,7 +257,7 @@ Cena kursu nie może być niższa niż 5 zł.
 
 **Na stronie sprzedażowej informacja na temat trwania promocji będzie przedstawiona w taki sposób.** 
 
-![asdfasfasfas](_media/screen-cena-promocyjna-web.jpg)
+![asdfasfasfas](_media/screen-cena-promo.png)
 
 **Przy ustalaniu ceny promocyjnej należy podać:**
 * **cenę standardową**
@@ -266,15 +266,18 @@ Cena kursu nie może być niższa niż 5 zł.
 
 Po zakończeniu promocji cena promocyjna zmieni się automatycznie na cenę standardową. 
 
-**Przykład:** Koniec trwania promocji to 23 czerwiec. Zmiana ceny nastąpi 23 czerwca o godzinie 00.00. Jeśli cena promocyjna ma obowiązywać do końca 23 czerwca należy ustawić datę 24 czerwca. 
-
 Aby udostępnić ograniczoną ilość kursów w cenie promocyjnej należy skorzystać z opcji **Promo limit.** 
 
 Podaj ilość dostępnych kursów w niższej cenie. W tym wypadku zmiana ceny z promocyjnej na standardową nastąpi w momencie sprzedaży wszystkich kursów w niższej cenie lub w momencie zakończenia promocji (według ustawionej daty). W zależności od tego, która sytuacja nastąpi pierwsza. 
 
 **-1 oznacza nieskoczoną ilość kursów dostępnych w cenie promocyjnej.**
 
-**W momencie ustawienia Ceny promocyjnej, nie zadziała funkcja Kodów rabatowych.**
+**W momencie ustawienia Ceny promocyjnej, Kod rabatowy będzie naliczany do ceny standardowej, a nie promocyjnej.**
+Przykład: 
+Cena standardowa kursu - 35 zł
+Cena promocyjna - 12 zł
+Cena po uwzględnieniu kodu rabatowego - 17,5 zł
+
 
 <br>
 
