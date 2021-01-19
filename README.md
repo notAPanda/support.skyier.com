@@ -288,7 +288,7 @@ Cena po uwzględnieniu kodu rabatowego (zakładając, że ustawimy kod rabatowy 
 
 3. A następnie dodać różne warianty cenowe, poprzez wybranie opcji *Dodaj wariant cenowy.*
 
-![asdfasfasfas](_media/screen-wiele-licencji-2.png)
+![asdfasfasfas](_media/screen-wiele-licencji-2-1.png)
 
 
 Kiedy użytkownik będzie chciał kupić 1-4 licencje, to za każdą zapłaci po 70 zł, 5-19 licencji, to za każdą zapłaci 60 zł, powyżej 20 licencji, to za każdą zapłaci 50 zł. 
@@ -297,7 +297,7 @@ Kiedy użytkownik będzie chciał kupić 1-4 licencje, to za każdą zapłaci po
 
 Natomiast, kiedy dodatkowo zostanie włączona opcję *Sztywne warianty cenowe* można narzucić ile licencji może kupić użytkownik. W poniższym przykładzie jest to: 1, 5 lub 20. 
 
-![asdfasfasfas](_media/screen-wiele-licencji-3.png)
+![asdfasfasfas](_media/screen-wiele-licencji-3-1.png)
 
 I wówczas na stronie płatności wybór ilości licencji wygląda tak:
 
