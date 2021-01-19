@@ -239,7 +239,7 @@ Zduplikowany kurs pojawi się na dole listy.
 
 2. A następnie przejść do sekcji **CENA.** 
 
-![asdfasfasfas](_media/screen-ustalanie-ceny.jpg)
+![asdfasfasfas](_media/screen-promo-cena.jpg)
 
 Cena kursu nie może być niższa niż 5 zł. 
 
@@ -261,19 +261,17 @@ Cena kursu nie może być niższa niż 5 zł.
 * **cenę promocyjną**
 * **okres trwania promocji (od-do)** 
 
-Po zakończeniu promocji cena promocyjna zmieni się automatycznie na cenę standardową. 
+Po zakończeniu promocji cena zmieni się automatycznie na cenę standardową. 
 
-Aby udostępnić ograniczoną ilość kursów w cenie promocyjnej należy skorzystać z opcji **Promo limit.** 
-
-Podaj ilość dostępnych kursów w niższej cenie. W tym wypadku zmiana ceny z promocyjnej na standardową nastąpi w momencie sprzedaży wszystkich kursów w niższej cenie lub w momencie zakończenia promocji (według ustawionej daty). W zależności od tego, która sytuacja nastąpi pierwsza. 
+Aby udostępnić ograniczoną ilość kursów w cenie promocyjnej należy skorzystać z opcji **Ilość produktów w cenie promocyjnej.** I wówczas należy podać ile kursów dostępnych jest w niższej cenie. W tym wypadku zmiana ceny z promocyjnej na standardową nastąpi w momencie wyprzedaży wszystkich kursów w niższej cenie lub w momencie zakończenia promocji (według ustawionej daty). W zależności od tego, która sytuacja nastąpi pierwsza. 
 
 **-1 oznacza nieskoczoną ilość kursów dostępnych w cenie promocyjnej.**
 
 **W momencie ustawienia Ceny promocyjnej, Kod rabatowy będzie naliczany do ceny standardowej, a nie promocyjnej.**
-Przykład: <br>
+Przykład: Jeśli ustawimy: <br>
 Cena standardowa kursu - 35 zł<br>
 Cena promocyjna - 12 zł<br>
-Cena po uwzględnieniu kodu rabatowego - 17,5 zł
+Cena po uwzględnieniu kodu rabatowego (zakładając, że ustawimy kod rabatowy na 50%) - 17,5 zł
 
 
 <br>
@@ -284,13 +282,13 @@ Cena po uwzględnieniu kodu rabatowego - 17,5 zł
 
 ![asdfasfasfas](_media/screen-edycja-kursu-2.jpg)
 
-2. Przejść do sekcji **CENA** i zaznaczyć opcję *Możliwość zakupu wiele licencji.* 
+2. Przejść do sekcji **CENA** i zaznaczyć opcję *Zakup kursu wiele licencji.* 
 
-![asdfasfasfas](_media/screen-wiele-licencji.jpg)
+![asdfasfasfas](_media/screen-wiele-licencj-1.png)
 
 3. A następnie dodać różne warianty cenowe, poprzez wybranie opcji *Dodaj wariant cenowy.*
 
-![asdfasfasfas](_media/screen-warianty-cenowe-przyklady.png)
+![asdfasfasfas](_media/screen-wiele-licencji-2.png)
 
 
 Kiedy użytkownik będzie chciał kupić 1-4 licencje, to za każdą zapłaci po 70 zł, 5-19 licencji, to za każdą zapłaci 60 zł, powyżej 20 licencji, to za każdą zapłaci 50 zł. 
@@ -299,7 +297,7 @@ Kiedy użytkownik będzie chciał kupić 1-4 licencje, to za każdą zapłaci po
 
 Natomiast, kiedy dodatkowo zostanie włączona opcję *Sztywne warianty cenowe* można narzucić ile licencji może kupić użytkownik. W poniższym przykładzie jest to: 1, 5 lub 20. 
 
-![asdfasfasfas](_media/screen-sztywne-warianty.png)
+![asdfasfasfas](_media/screen-wiele-licencji-3.png)
 
 I wówczas na stronie płatności wybór ilości licencji wygląda tak:
 
