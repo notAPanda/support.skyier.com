@@ -189,23 +189,32 @@ Jeśli jednak kurs zostanie ustawiony jako szkic (odpublikowany) po tym, jak uż
 
 <br>
 
-#### Duplikowanie lekcji
+#### Duplikowanie lekcji w tym samym kursie
 
 1. Aby zduplikować lekcję należy wejść na **Listę lekcji**.
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
-2. A następnie wybrać opcję *Duplikuj*.
+2. A następnie przy wybranej lekcji wybrać opcję *Duplikuj*.
+
+![asdfasfasfas](_media/screen-duplikuj.jpg)
+
+3. Zduplikowana lekcja pojawi się na końcu sekcji.
+
+
+<br>
+
+#### Kopiowanie lekcji do innego kursu
+
+1. Aby skopiować lekcję należy wejść na **Listę lekcji**.
+
+![asdfasfasfas](_media/screen-kopiuj-do.jpg)
+
+2. A następnie przy wybranej lekcji wybrać opcję *Duplikuj do*.
 
 ![asdfasfasfas](_media/screen-duplikacja-lekcji.jpg)
 
-3. Pojawi się krótki formularz, w którym trzeba **wpisać ID kursu**, do którego ma zostać skopiowana lekcja.
-
-**ID kursu można znaleźć na Liście wszystkich kursów.** 
-
-![asdfasfasfas](_media/screen-id-kursy.jpg)
-
-**Lekcja została skopiowana i możesz ją znaleźć na Liście lekcji kursu, którego ID podałeś.** 
+3. Zduplikowana lekcja pojawi się na Liście lekcji kursu, do którego została skopiowana. 
 
 <br>
 
