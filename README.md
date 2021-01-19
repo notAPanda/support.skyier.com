@@ -284,7 +284,7 @@ Cena po uwzględnieniu kodu rabatowego (zakładając, że ustawimy kod rabatowy 
 
 2. Przejść do sekcji **CENA** i zaznaczyć opcję *Zakup kursu wiele licencji.* 
 
-![asdfasfasfas](_media/screen-wiele-licencj-1.png)
+![asdfasfasfas](_media/screen-wiele-licencji-1.png)
 
 3. A następnie dodać różne warianty cenowe, poprzez wybranie opcji *Dodaj wariant cenowy.*
 
