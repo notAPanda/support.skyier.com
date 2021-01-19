@@ -71,7 +71,7 @@ W poniższym filmiku znajdziesz instrukcję, jak szybko przejść przez Ustawien
 <br>
 
 #### JavaScript
-Tutaj wklej kod śledzący. Rekmendowany jest Google Tag Managera. 
+Tutaj wklej kod śledzący. Rekmendowany jest Google Tag Manager. Ale można również dodać inne kody, w zależności od narzędzia, jakiego chcemy użyć (Google Analytics, FB Pixel, Hotjar, itp.). 
 
 <br>
 
