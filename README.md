@@ -10,50 +10,59 @@ W poniższym filmiku znajdziesz instrukcję, jak szybko przejść przez Ustawien
 * **Język strony** - wersja językowa, w jakim będzie dostępna platforma dla studentów. Można wybrać wersję polską lub angielską.
 * **Waluta** - waluta, w jakiej będą pobierane opłaty za kursy online. Dostępne waluty: PLN, USD, GBP, EUR, CHF. 
 
+<br>
+
+#### Dane autora
+* **Nazwa firmy/Imię i nazwisko**
+* **E-mail** - adres e-mail będzie dostępny pod nazwą **Kontakt** w nawigacji dolnej.
+* **Copyright** - nazwa ta będzie widoczna w dolnej nawigacji. Jeśli zostawisz to pole puste to pojawi się Nazwa strony, podana w pierwszym polu. W poniższym przykładzie nazwa wpisana w Copyright to Skyier.
+* **Copyright url** - link strony, do której ma przekierowywać nazwa podana w Copyright.
+
+![asdfasfasfas](_media/screen-nawigacja-dolna.jpg)
+
+<br>
+
 #### Funkcje 
-* **Włącz funkcję dodawania artykułów** - zaznacz, jeśli chcesz na platformie dodawać artykuły. Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na przykład Blog.
+* **Włącz funkcję dodawania artykułów** - zaznacz, jeśli chcesz na platformie dodawać content. Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na przykład Blog. [Tutaj dowiesz się, jak dodawać Artykuły.] (https://support.skyier.com/?id=artyku%c5%82y) 
 
 ![asdfasfasfas](_media/screen-blog.jpg)
 
-* **Wyświetlaj wiadomość powitalną** - zaznacz, jeśli chcesz wyświetlać wiadomość dla studentów, którzy kupili kurs za pomocą płatności jednorazowych albo po prostu zarejestrowali się do platformy w celu zapoznania się z Twoimi kursami darmowymi (jeśli takie posiadasz) lub płatnymi. Wiadomość będzie widoczna od razu po zalogowaniu do platformy.
+* **Wyświetlaj wiadomość powitalną** - zaznacz, jeśli chcesz wyświetlać wiadomość dla studentów, którzy kupili kurs za pomocą płatności jednorazowych albo po prostu zarejestrowali się do platformy w celu zapoznania się z Twoimi kursami darmowymi (jeśli takie posiadasz). Wiadomość będzie widoczna od razu po zalogowaniu do platformy.
 
 ![asdfasfasfas](_media/wiadomosc-powitalna-kurs.png)
 
 * **Wyświetlaj wiadomość powitalną dla subskrybentów** - zaznacz, jeśli chcesz wyświetlać wiadomość dla studentów, którzy dołączyli do Twojej platformy subskrypcyjnej. Wiadomość będzie widoczna od razu po zalogowaniu do platformy. I będzie wyglądała analogicznie do przykładu zamieszczonego powyżej. 
-* **Chcę wystawiać faktury manulanie** - zaznacz, jeśli chcesz, aby faktura nie została automatycznie wysłana po zakupie kursu, tylko "na żądanie". Aby ta funkcja zadziała potrzeba jest integracja z systemem do fakturowania.
+* **Chcę wystawiać faktury manulanie** - zaznacz, jeśli chcesz, aby faktura nie została automatycznie wysłana po zakupie kursu. Wówczas, aby wystawić fakturę trzeba wejść w SPRZEDAŻ i przy danej transkacji kliknąć przycisk *attemp*. Aby ta funkcja zadziała potrzeba jest integracja z systemem do fakturowania.
 * **Wyświetlaj pole do wpisania kodu rabatowego na stronie zakupowej** - zaznacz, jeśli chcesz, aby na stronie płatności pojawiło się pole do wpisania kodu promocyjnego dla użytkowników. Pole to pojawi się nad przyciskiem Kup teraz.
 
 ![asdfasfasfas](_media/screen-kod-rabatowy.jpg)
 
-* **Chcę użyć zewnętrznych stron sprzedażowych** - zaznacz, jeśli chcesz stworzyć stronę sprzedażową na WordPressie albo w innym narzędziu do landing page. Wówczas platforma będzie wykorzystywana jako panel do nauki.
-* **Wyświetlaj dodatkowe linki w nawigacji** - zaznacz, jeśli chcesz dodać dodatkowe linki w górnej nawigacji. Mogą to być linki przekierowujące np. do Twojej domeny głównej. 
+* **Chcę użyć zewnętrznych stron sprzedażowych** - zaznacz, jeśli chcesz stworzyć stronę sprzedażową na WordPressie albo w innym narzędziu. Wówczas platforma będzie wykorzystywana wyłącznie jako panel do nauki i obsługi transkacji. Trzeba pamiętać, aby na swojej stronie sprzedażowej wstawić link przekierowujący na strony zakupowej (checkoutu) Skyier.
+* **Wyświetlaj dodatkowe linki w nawigacji** - zaznacz, jeśli chcesz dodać linki w górnej nawigacji.
 
 ![asdfasfasfas](_media/screen-linki.png)
+
+* **Wyświetlaj własne pola zgody przy zakupie (zamiast standardowych)** - zaznacz, jeśli chcesz na stronie dokonywania zakupu (checkout) wstawić swoje checkboxy. Możesz dodać ich nieograniczoną ilość, ale wszystkie będą wymagane. W momencie dodania swoich formułek, nasza standardowa nie będzie wyświetlana. 
+
+![asdfasfasfas](_media/screen-formulka.png)
+
+* **Wyświetlaj uproszczoną stronę zakupową** - zazacz, jeśli nie chcesz zbierać danych do wystawiania faktur lub rachunków. Wówczas na stronie zakupowej (checkout) będzie widoczny wyłącznie formularz rejestracyjny. 
 
 <br>
 
 #### Model pobierania płatności
-* **Jednorazowe płatności** - zaznacz, jeśli planujesz sprzedaż kursów online jako jednorazowy zakup.
+* **Jednorazowe płatności** - zaznacz, jeśli planujesz sprzedaż kursów online i konsultacji jako jednorazowy zakup.
 * **Model subskrypcyjny** - zaznacz, jeśli planujesz uruchomić platformę subskrypcyjną. Systemem płatności, który obsługuje płatności abonamentowe to TPay. 
 * **Jednorazowe płatności i Model subskrypcyjny** - zaznacz, jeśli planujesz sprzedaż kursów zarówno w modelu jednorazowym, jak i subskrypcyjnym. 
 
 <br>
 
 #### Powiadomienia
-* **Chcę otrzymywać powiadomienia o ukończonych transakcjach** - zaznacz, jeśli chcesz otrzymywać maile z informacją, że ktoś kupił kurs. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji.
-* **Chcę otrzymywać powiadomienia o nowych komentarzach** - zaznacz, jeśli chcesz otrzymywać powiadomienia na temat komentarzy pod Twoimi lekcjami. Aby ta funkcja zadziałała przy lekcjach trzeba włączyć możliwość pozostawiania komentarzy przez studentów. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji.
+* **Chcę otrzymywać powiadomienia o ukończonych transakcjach** - zaznacz, jeśli chcesz otrzymywać maile z informacją, że Twój kurs został kupiony. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji.
+* **Chcę otrzymywać powiadomienia o nowych komentarzach** - zaznacz, jeśli chcesz otrzymywać powiadomienia na temat komentarzy pod Twoimi lekcjami. Aby ta funkcja zadziałała przy lekcjach trzeba włączyć możliwość pozostawiania komentarzy przez studentów. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji. [Tutaj znajdziesz instrukcję, jak włączyć Komentarze. ] (https://support.skyier.com/?id=komentarze)
 
 <br>
 
-#### Dane autora
-* **Nazwa firmy/Imię i nazwisko**
-* **E-mail** - adres e-mail będzie dostępny pod nazwą **Kontakt** w nawigacji dolnej.
-* **Copyright** - możesz podać nazwę, która będzie widoczna w dolnej nawigacji. Jeśli zostawisz to pole puste to pojawi się Nazwa strony, podana w pierwszym polu. W poniższym przykładzie nazwa wpisana w Copyright to Skyier.
-* **Copyright url** - możesz podać link strony, do której ma przekierowywać nazwa podana w Copyright.
-
-![asdfasfasfas](_media/screen-nawigacja-dolna.jpg)
-
-<br>
 
 #### Informacje prawne
 * **Regulamin** - miejsce na regulamin platformy do sprzedaży kursów.
