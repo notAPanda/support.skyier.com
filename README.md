@@ -23,7 +23,7 @@ W poniższym filmiku znajdziesz instrukcję, jak szybko przejść przez Ustawien
 <br>
 
 #### Funkcje 
-* **Włącz funkcję dodawania artykułów** - zaznacz, jeśli chcesz na platformie dodawać content. Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na przykład Blog. [Tutaj dowiesz się, jak dodawać Artykuły.] (/?id=artyku%c5%82y) 
+* **Włącz funkcję dodawania artykułów** - zaznacz, jeśli chcesz na platformie dodawać content. Nazwa, którą podasz będzie widoczna w górnej nawigacji. Może to być na przykład Blog. [Tutaj dowiesz się, jak dodawać Artykuły.](/?id=artyku%c5%82y) 
 
 ![asdfasfasfas](_media/screen-blog.jpg)
 
@@ -59,7 +59,7 @@ W poniższym filmiku znajdziesz instrukcję, jak szybko przejść przez Ustawien
 
 #### Powiadomienia
 * **Chcę otrzymywać powiadomienia o ukończonych transakcjach** - zaznacz, jeśli chcesz otrzymywać maile z informacją, że Twój kurs został kupiony. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji.
-* **Chcę otrzymywać powiadomienia o nowych komentarzach** - zaznacz, jeśli chcesz otrzymywać powiadomienia na temat komentarzy pod Twoimi lekcjami. Aby ta funkcja zadziałała przy lekcjach trzeba włączyć możliwość pozostawiania komentarzy przez studentów. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji. [Tutaj znajdziesz instrukcję, jak włączyć Komentarze. ] (/?id=komentarze)
+* **Chcę otrzymywać powiadomienia o nowych komentarzach** - zaznacz, jeśli chcesz otrzymywać powiadomienia na temat komentarzy pod Twoimi lekcjami. Aby ta funkcja zadziałała przy lekcjach trzeba włączyć możliwość pozostawiania komentarzy przez studentów. Powiadomienie będzie przychodziło na adres e-mail podany przy Rejestracji. [Tutaj znajdziesz instrukcję, jak włączyć Komentarze.](/?id=komentarze)
 
 <br>
 
