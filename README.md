@@ -333,6 +333,7 @@ W przypadku sprzedaży kursów w modelu wielu licencji nie działa funkcja **Kod
 
 **Na przycisku (zamiast call to action DOŁĄCZ DO KURSU) pojawi się call to action OGLĄDAJ TERAZ.** 
 
+![asdfasfasfas](_media/screen-ogladaj-teraz.png)
 
 <br>
 
@@ -348,7 +349,7 @@ W przypadku sprzedaży kursów w modelu wielu licencji nie działa funkcja **Kod
 
 **Na przycisku (zamiast call to action DOŁĄCZ DO KURSU) pojawi się call to action OGLĄDAJ TERAZ.** 
 
-![asdfasfasfas](_media/screen-ogladaj-teraz-kurs-darmowy.png)
+![asdfasfasfas](_media/screen-ogladaj-teraz.png)
 
 Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracji/logowania w celu otrzymania dostępu do kursu.
 
