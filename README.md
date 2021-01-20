@@ -409,7 +409,7 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany k
 3. Wypełnij informacje na temat produktu (opis, cena, seo, obrazy).
 4. Przygotowuj **WIADOMOŚĆ PO ZAKUPIE**. Jest to wiadomość, jaką otrzyma użytkownik na maila po zakupie konsultacji. Jeśli posiadasz swój kalendarz do umawiania spotkań to dobrze jest w takiej wiadomości zamieścić link do takiego kalendarza (Google, Calendly, itp.). Aby użytkownik wybrał dogodny dla siebie termin oraz godzinę. Jeśli jednak nie posiadasz kalendarza to możesz w treści wiadomości napisać krótką instrukcję. 
 
-![asdfasfasfas](_media/screen-tworzenie-wiadomosci.png)
+![asdfasfasfas](_media/screen-konsultacja.png)
 
 5. Kliknij **Zapisz i podejrzyj**. Sprawdź, czy wszystko wygląda poprawnie. 
 
