@@ -282,7 +282,7 @@ Cena po uwzględnieniu kodu rabatowego (zakładając, że ustawimy kod rabatowy 
 
 ![asdfasfasfas](_media/screen-edycja-kursu-2.jpg)
 
-2. Przejść do sekcji **CENA** i zaznaczyć opcję *Zakup kursu wiele licencji.* 
+2. Przejść do sekcji **CENA** i zaznaczyć opcję *Zakup kursu na wiele licencji.* 
 
 ![asdfasfasfas](_media/screen-wiele-licencji-1.png)
 
@@ -329,11 +329,10 @@ W przypadku sprzedaży kursów w modelu wielu licencji nie działa funkcja **Kod
 
 2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Kurs jest darmowy.* 
 
-![asdfasfasfas](_media/screen-kurs-darmowy.jpg)
+![asdfasfasfas](_media/screen-darmowy.png)
 
-**Na stronie sprzedażowej zamiast przycisku umożliwiającego zakup kurs pojawi się przycisk OGLĄDAJ TERAZ. Po kliknięciu w przycisk użytkownik przejdzie od razu do oglądania kursu.** 
+**Na przycisku (zamiast call to action DOŁĄCZ DO KURSU) pojawi się call to action OGLĄDAJ TERAZ.** 
 
-![asdfasfasfas](_media/screen-ogladaj-teraz-kurs-darmowy.png)
 
 <br>
 
@@ -343,17 +342,17 @@ W przypadku sprzedaży kursów w modelu wielu licencji nie działa funkcja **Kod
 
 ![asdfasfasfas](_media/screen-edycja-kursu.jpg)
 
-2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Kurs jest darmowy oraz Uczestnicy muszą się zalogować do platformy, aby móc objerzeć kurs za darmo.*
+2. Następnie przejść do sekcji **CENA** i zaznaczyć opcję *Produkt jest darmowy oraz Uczestnicy muszą się zalogować do platformy, aby móc objerzeć kurs za darmo.*
 
-![asdfasfasfas](_media/screen-kurs-darmowy-po-zostawieniu-email.png)
+![asdfasfasfas](_media/screen-darmowy-logowanie.png)
 
-**Na stronie sprzedażowej zamiast przycisku umożliwiającego zakup kurs pojawi się przycisk OGLĄDAJ TERAZ.**
+**Na przycisku (zamiast call to action DOŁĄCZ DO KURSU) pojawi się call to action OGLĄDAJ TERAZ.** 
 
 ![asdfasfasfas](_media/screen-ogladaj-teraz-kurs-darmowy.png)
 
 Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracji/logowania w celu otrzymania dostępu do kursu.
 
-![asdfasfasfas](_media/screen-kurs-darmowy-logowanie-rejestracja.png)
+![asdfasfasfas](_media/screen-panel-nauki.png)
 
 <br>
 
@@ -365,7 +364,7 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 
 2. Następnie przejść do sekcji **SZCZEGÓŁY** i wpisać przez ile dni kurs ma być dostępny dla studenta po zakupie.
 
-![asdfasfasfas](_media/screen-dostep-czasowy.png)
+![asdfasfasfas](_media/screen-dni.png)
 
 **0 - oznaczania nieograniczony dostęp.** 
 
