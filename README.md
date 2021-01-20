@@ -380,7 +380,7 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 
 ![asdfasfasfas](_media/screen-lekcja-darmowa-bez.jpg)
 
-Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
+Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Oglądaj za darmo*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
 
 ![asdfasfasfas](_media/screen-lista-lekcji.png)
 
@@ -400,17 +400,12 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany k
 
 ![asdfasfasfas](_media/screen-lekcja-darmowa-z.jpg)
 
-Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Zobacz*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
+Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Oglądaj za darmo*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
 
-![asdfasfasfas](_media/screen-lista-lekcji.png)
-
-![asdfasfasfas](_media/screen-panel-nauki-logowanie-lekcja.png)
-
-Lekcję możliwią do obejrzenia po zostawieniu e-mail można ustawić tylko przy kursie płatnym. Dlatego użytkownik również ma możliwość dokonania od razu zakupu kursu, wybierając opcję **Kup teraz.** 
 
 <br>
 
-#### Dodawanie wideo, audio, pdf, doc, excel
+#### Dodawanie wideo, audio, pdf, doc, excel, zip
 
 1. Aby dodać materiały szkoleniowe należy przejść do **Listy lekcji.**
 
