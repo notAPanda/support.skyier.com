@@ -431,9 +431,9 @@ Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać pięć "h
 <br>
 Jeśli chcesz zrobić jakiś nagłówek H1 to należy przed nim dodać sześć "hasztagów". Np. ###### Dzień dobry
 
-**wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie gwiazdki "*".
+**wyboldowanie**. Aby pogrubić wyraz lub zdanie należy wstawić przed nim i za nim dwie gwiazdki. Jak na powyższym screenie.
 <br>
-*kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną gwiazdkę "*".
+*kursywa*. Aby napisać wyraz lub zdanie kursywą należy wstawić przed nim i za nim jedną gwiazdkę. Jak na powyższym screenie. 
 <br>
 [I'm an inline-style link](https://www.google.com). Aby wstawić link do zdania należy w nawiasach [] wstawić zdanie, które chcemy podlinkować, a obok w nawiasach () wstawić link do strony, do której chcemy odesłać użytkownika.
 
@@ -476,68 +476,7 @@ Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświet
 
 ![asdfasfasfas](_media/screen-linki.png)
 
-### Statystyki
-
-#### Statystyki sprzedaży kursu online
-
-Aby sprawdzić ilość przeprowadzonych transkacji należy wybrać w górnym menu zakładką SPRZEDAŻ. 
-
-![asdfasfasfas](_media/screen-sprzedaz.jpg)
-
-Dane na temat sprzedaży można filtrować po:
-* **dacie** - umożliwia zawężenie sprzedaży do określonego przedziału czasowego
-* **statusie** - umożliwia sprawdzenie, ile transkacji zostało ukończonych, a ile nie.
-
-Transkacje otrzymują status:
-
--> OK/PERFORMED - oznacza transkację, która została zakończona. Użytkownik przeszedł przez cały proces zakupowy i otrzymał dostęp do kursu. 
-
--> STARTED - oznacza transkację, która została rozpoczęta, ale nie ukończona. Użytkownik nie zakończył procesu zakupowego i nie otrzymał dostępu do kursu (tzw. porzucony koszyk).
-
-* **kodach promocyjnych** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego kodu 
-* **afiliacji** - umożliwia sprawdzenie, ile transkacji zostało dokonanych przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie uruchomienia sprzedaży przy pomocy linków afiliacyjnych. 
-* **kursie** - umożliwia sprawdzenie wysokości sprzedaży konkretnego kursu 
-
-Można również zastosować kilka filtrów równocześnie. 
-
-<br/>
-
-#### Statystyki uczestników
-
-Aby sprawdzić ilu studentów jest zarejestrowanych w platformie należy wybrać w górnym menu zakładkę STUDENCI. 
-
-![asdfasfasfas](_media/screen-studenci.jpg)
-
-Dane na temat sprzedaży można filtrować po:
-* **mailu** - umożliwia wyfiltrowanie konkretnego studenta
-* **dacie** - umożliwia zawężenie dokonanych rejestracji w określonym czasie
-* **afiliacji** - umożliwia sprawdzenie, ilu uczestników zarejestrowało się przy użyciu danego linku partnerskiego. Ta opcja pojawia się w momencie uruchomienia promocji przy pomocy linków afiliacyjnych. 
-* **kursie** - umożliwia sprawdzenie, ilu uczestników jest w danym kursie. Na liście pojawiają się wyłącznie studenci, którzy dokonali zakupu kursu lub, którym został przyznany dostęp. Nie pojawiają się uczestnicy, którzy dokonali rejestracji, w celu zapoznania się z materiałem darmowym. 
-
-<br/>
-
-#### Statystyki zaangażowania
-
-Aby sprawdzić zaangażowanie uczestników kursu należy przejść do  Statystyk danego kursu. 
-
-![asdfasfasfas](_media/screen-zaangazowanie.jpg)
-
-Wówczas pokaże się kilka danych, które można wykorzystać do analizy.
-
-![asdfasfasfas](_media/screen-ikonki-zaangazowanie.png)
-
-Ikonka:
-* **gwiazdki** - oznacza ilość uczestników, którzy oznaczyli lekcję jako ulubioną. Studenci w panelu nauki mają możliwość oznaczania lekcji jako ulubionej, aby móc do niej szybciej wrócić w razie potrzeby. 
-* **komentarzy** - oznacza ilość komentarzy zostawionych pod lekcją
-* **haczyka** - oznacza, ilość uczestników, którzy oznaczyli lekcję jako ukończoną. Studenci w panelu nauki mogą odznaczać, lekcje, które zostały przez nich obejrzane i śledzić swój postęp nauki. 
-
-<br/>
-
-#### Statystyki leadów
-
-Aby sprawdzić ilu subskrybentów zapisało się na listę przy danym kursie należy wybrać **Leady** przy danym kursie. 
-
-![asdfasfasfas](_media/screen-lead.jpg)
+<br>
 
 ### Pozostałe funkcjonalności 
 
