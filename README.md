@@ -375,15 +375,12 @@ Po kliknięciu w przycisk **OGLĄDAJ TERAZ** użytkownik przejdzie do rejestracj
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
-2. Następnie kliknąć w ikonkę **$**. 
+2. Następnie kliknąć w ikonkę **$ i user+**. Wówczas ikonki zmienią się na ikonki **user- i prezent**. Co będzie oznaczało, że lekcja będzie dostępna za darmo, bez konieczności logowania.
 
-![asdfasfasfas](_media/screen-lekcja-darmowa.jpg)
-
-![asdfasfasfas](_media/screen-lekcja-darmowa-bez.jpg)
+![asdfasfasfas](_media/screen-lekcja-darmowa.png)
 
 Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Oglądaj za darmo*, po kliknięciu, w który użytkownik przejdzie do obejrzenia lekcji. 
 
-![asdfasfasfas](_media/screen-lista-lekcji.png)
 
 <br>
 
@@ -393,36 +390,12 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany k
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
-2. Kliknąć w ikonkę **$**. 
+2. Kliknąć w ikonkę **$, a następnie user-**. Wówczas ikonki zmienią się na ikonki **user+ i prezent**. Co będzie oznaczało, że lekcja będzie dostępna po zalogowaniu.
 
-![asdfasfasfas](_media/screen-lekcja-darmowa.jpg)
-
-3. Następnie kliknąć w ikonkę **user-**, aby przestawiła się na **user+**. 
-
-![asdfasfasfas](_media/screen-lekcja-darmowa-z.jpg)
+![asdfasfasfas](_media/screen-lekcja-darmowa-logowanie.jpg)
 
 Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Oglądaj za darmo*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
 
-
-<br>
-
-#### Dodawanie wideo, audio, pdf, doc, excel, zip
-
-1. Aby dodać materiały szkoleniowe należy przejść do **Listy lekcji.**
-
-![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
-
-2. Następnie utworzyć strukturę kursu, dzieląc go na **moduły i lekcje.** 
-
-![asdfasfasfas](_media/screen-dodawanie-materialow.png)
-
-Można dodać nieograniczoną ilość modułów oraz lekcji wchodzących w skład poszczególnych modułów. 
-
-3. Kliknij w **tytuł lekcji** lub opcję **Edytuj**, aby przejść do dodawania materiałów wchodzących w skład lekcji.
-
-![asdfasfasfas](_media/screen-edycja-lekcji.jpg)
-
-4. **Wybierz komponent z lewej strony, a anstępnie przenieś go na prawą (TEKST, ZDJĘCIE, WIDEO, PDF, itd.).** Można dodać nieograniczoną ilość komponentów i komponenty mogą się powtarzać. 
 
 <br>
 
