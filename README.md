@@ -411,7 +411,7 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany k
 
 ![asdfasfasfas](_media/screen-tworzenie-wiadomosci.png)
 
-5. Kliknij **Zapisz** (niebieski przycisk) i zrób podgląd wiadomości. Sprawdź, czy wszystko się zgadza. Bez wcześniejszego **Zapisu zmian**, podgląd nie będzie widoczny (pojawi się błąd 404). 
+5. Kliknij **Zapisz i podejrzyj**. Sprawdź, czy wszystko wygląda poprawnie. 
 
 6. Stwórz **Stronę sprzedażową**, z informacjami na temat konsultacji i z przyciskiem do zakupu. 
 
