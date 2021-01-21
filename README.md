@@ -446,19 +446,18 @@ Aby włączyć model sprzedaży subskrypcyjnej należy przejść do **Ustawień 
 #### Włączenie sprzedaży subskrypcyjnej i jednorazowej
 Aby włączyć model sprzedaży subskrypcyjnej i jednorazowej należy przejść do **Ustawienia konta -> Model pobierania płatności -> zaznaczyć jednocześnie opcje *Jednorazowe płatności i Model subskrypcyjny*.**
 
-![asdfasfasfas](_media/screen-modele-sprzedazy.png)
+![asdfasfasfas](_media/screen-sub-poj.png)
 
 #### Ustalenie pakietów subskrypcyjnych
 
 1. Aby ustawić pakiety subskrypcyjne należy przejść do **Ustawiń konta -> Model pobierania płatności, a następnie przy opcji *Model subskrypcyjny* wybrać opcję: *Opcje planów*.**
 
-![asdfasfasfas](_media/screen-opcje-planow.jpg)
+![asdfasfasfas](_media/screen-sub-plany.jpg)
 
 2. A następnie wybrać odpowiednie **plany subskrypcyjne.**
 
-**Można włączyć subskrypcje: miesięczną, 3-miesięczną, 6-miesiączną, 12-miesiączną i na zawsze (czyli tzw. life time).** 
+##### Ustawienia subskrypcji
 
-![asdfasfasfas](_media/screen-opcje-planow-wyglad.png)
 
 ### Strony dodatkowe
 
@@ -486,13 +485,9 @@ Aby dodać linki należy przejść do **Ustawienia strony -> Funkcje -> Wyświet
 
 ![asdfasfasfas](_media/screen-darmowa-lekcja.jpg)
 
-2. A następnie przy wybranej lekcji kliknąć **ikonkę "komentarza".**
+2. A następnie przy wybranej lekcji kliknąć **ikonkę "komentarza".** Wówczas szara przekreślona ikonka zmieni się na czarną ikonkę bez przekreślenia. To oznacza, że możliwość dodawania komentarzy została włączona. 
 
-![asdfasfasfas](_media/screen-komentarz-1.jpg)
-
-Wówczas szara przekreślona ikonka zmieni się na czarną ikonkę bez przekreślenia. To oznacza, że możliwość dodawania komentarzy została włączona. 
-
-![asdfasfasfas](_media/screen-komentarz-2.jpg)
+![asdfasfasfas](_media/screen-komentarz.jpg)
 
 Aby otrzymywać na maila powiadomienia o nowych komentarzach należy przejść do **Ustawień strony -> Powiadomienia** -> i zaznaczyć opcję *Chcę otrzymywać powiadomienia o nowych komentarzach.* 
 
@@ -530,26 +525,26 @@ Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięci
 
 2. A następnie **Kody promocyjne.**
 
-![asdfasfasfas](_media/screen-kody.jpg)
+![asdfasfasfas](_media/screen-wl-kody.jpg)
 
-3. Kliknij w **przycisk +Dodaj** i pojawi się krótki formularz do wypełnienia.
+3. Kliknij w **przycisk Dodaj** i pojawi się krótki formularz do wypełnienia.
 
-![asdfasfasfas](_media/screen-dodaj-kod.jpg)
+![asdfasfasfas](_media/screen-ustawienie-kodu.png)
 
 Podaj:
-* **tytuł** - tak, abyś wiedział, po co ten kod został stworzony
-* **kod** - nazwa, jaką użytkownicy będą musieli wpisać, aby rabat został naliczony
-* **wartość** - wielkość rabatu, jaki chcesz przyznać, np. 30
+* **tytuł** - ta nazwa nie będzie widoczna dla studentów. Podana nazwa powinna służyć rozpoznaniu, w jakim celu kod został stworzony.
+* **kod** - nazwa, jaką użytkownicy będą musieli wpisać, aby rabat został naliczony. Kod musi posiadać unikalną nazwę. Dana nazwa kodu nie może zostać użyta przy 2 różnych kodach rabatowych. 
+* **data ważności** - ustawiamy do kiedy ważny jest kod. Po upływie ustawionej daty kod będzie nieważny. Jeśli nie ustawimy daty kod będzie ważny w trybie ciągłym.
+* **rodzaj** - wybieramy rabat procentowy lub kwotowy. 
+* **wartość** - w zależności od wybranego rodzaju ustalamy wielkość rabatu procentowego (np. 30, co oznacza 30%) lub kwotowego (np. 20, co oznacza 20 zł).
+* **ilość** - ustalamy ilość dostępnych kodów rabatowych. Pozostawienie pola pustego oznacza nieograniczoną ilość. 
 
-**4. Wybierz kursy, jakie ten kod będzie obejmował:**
+**4. Wybierz kursy, jakie kod będzie obejmował:**
 
-* **wszystkie kursy** - kod będzie naliczał rabat na wszystkie produkty, jakie posiadasz w ofercie. Czyli na kursy pojedyncze, pakiety i subskrypcję. 
+* **wszystkie kursy** - kod będzie naliczał rabat na wszystkie produkty, jakie posiadasz w ofercie. Czyli na kursy pojedyncze, pakiety, konsultacje i subskrypcje. 
 * **subskrypcja** - kod będzie obejmował wyłącznie rabat na ofertę subskrypcyjną. 
-* **produkty z pojedynczą płatnością** - kod będzie naliczał rabat tylko na wybrany kurs pojedynczy lub pakiet. 
+* **produkty z pojedynczą płatnością** - kod będzie naliczał rabat tylko na wybrany kurs pojedynczy, konsultację lub pakiet. 
 
-**5. Aktywuj kod rabatowy.** Aby to zrobić należy kliknąć w szary przełącznik. **Po kliknięciu kolor zmieni się na niebieski,** co oznacza, że kod został aktywowany. 
-
-![asdfasfasfas](_media/screen-kod-aktywacja.jpg)
 
 Jeśli chcesz, aby rabat naliczał się po wpisaniu kodu w Pole rabatowe na stronie płatności to należy wejść w **Ustawienia strony -> Funkcje** -> i zaznaczyć opcję *Wyświetlaj pole do wpisania kodu rabatowego na stronie zakupowej.* 
 
@@ -557,11 +552,11 @@ Pole to pojawi się nad przyciskiem KUP TERAZ.
 
 ![asdfasfasfas](_media/screen-kod-rabatowy.jpg)
 
-Jeśli natomiast chcesz, aby rabat się naliczał od razu po przejściu na stronę z linku. To należy do adresu url strony dodać na końcu odpowiedni parametr, np: /?promo_code=109.
+Jeśli natomiast chcesz, aby rabat się naliczał od razu po przejściu na stronę z linku. To należy do url strony dokonywania zakupu (checkout) dodać na końcu odpowiedni parametr, np: /?promo_code=webinar30.
 
-I wówczas taki link przyjmie postać https://inspiracje.skyier.pl/numer-piec-strona-do-sprzedazy-kursu-online/checkout/?promo_code=70. I rabat zostanie naliczony automatycznie, bez konieczności wpisywania kodu w Pole rabatowe. 
+I wówczas taki link przyjmie postać https://inspiracje.skyier.pl/pakiet-kurs-1-i-3/checkout/?promo_code=webinar30. I rabat zostanie naliczony automatycznie, bez konieczności wpisywania kodu w Pole rabatowe. 
 
-![asdfasfasfas](_media/screen-kod-link.jpg)
+![asdfasfasfas](_media/screen-link-promor.jpg)
 
 <br>
 
@@ -571,19 +566,23 @@ I wówczas taki link przyjmie postać https://inspiracje.skyier.pl/numer-piec-st
 
 ![asdfasfasfas](_media/screen-edycja-kursu.jpg)
 
-2. A następnie przejść do **sekcji SZCZEGÓŁY** i zaznaczyć opcję *Ukryj na liście kursów*. Szary przełącznik **po kliknięciu zmieni kolor na niebieski,** co oznacza, że kurs został ukryty. 
+2. A następnie przejść do **sekcji SZCZEGÓŁY** i zaznaczyć opcję *Ukryj na liście kursów*. 
 
-![asdfasfasfas](_media/screen-ukryj.jpg)
+![asdfasfasfas](_media/screen-ukryj-kurs.png)
 
-**Kurs nie będzie widoczny na Liście kursów** (na stronie głównej).
+**Dzięki tej opcji możliwe jest wysłanie linku do kursu wyłącznie dla wybranych osób. Kurs nie pojawi się na Liście produktów (jeśli zastosujemy ten komponent na stronie głównej).**
 
 ![asdfasfasfas](_media/screen-lista-kursow.jpg)
 
-oraz na **liście WSZYSTKIE KURSY**, po zalogowaniu przez uczestnika do platformy.
+**I w platformie studenta na liście WSZYSTKIE KURSY**.
 
 ![asdfasfasfas](_media/screen-wszystkie-kursy.jpg)
 
-**Link do "ukrytego" kursu można udostępnić tylko dla wybranych osób. Osoby, które zakupią kurs będą go widziały na LIŚCIE SWOICH KURSÓW, po zalogowaniu do swojej platformy.** 
+**Wyłącznie osoby, które zakupią kurs z "ukrytego linku" będą go widziały na LIŚCIE SWOICH KURSÓW.** 
+
+<br>
+
+#### Sprzedaż kursu poza subskrypcją
 
 <br>
 
