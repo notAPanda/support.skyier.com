@@ -742,6 +742,8 @@ E-maile studentów będą pojawiać na liście, której Audience ID zostanie wsk
 
 Po dokonaniu integracji, automatycznie w Mailerlite pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
 
+<br>
+
 #### GetResponse
 
 **Gdzie znaleźć Api key i List token?**
