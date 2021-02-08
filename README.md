@@ -674,6 +674,24 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 ![asdfasfasfas](_media/screen-dostep-kurs-wiele.png)
 
+<br>
+
+### Integracje z systemami do e-mail marketingu
+
+#### Freshmail
+
+**Gdzie znaleźć Api key i Api secret?**
+
+1. Wybierz Ustawienia 
+2. A następnie w menu po lewej stronie przejdź do: API&SMTP, Wtyczki
+3. Przejdź do: API&SMTP
+4. W sekcji Twoje klucze API znajdziesz Api key i Api secret
+
+![asdfasfasfas](_media/freshmail-api.png)
+
+
+
+
 
 
 
