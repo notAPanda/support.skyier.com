@@ -687,10 +687,12 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 **3. Przejdź do: API&SMTP**
 **4. W sekcji Twoje klucze API znajdziesz Api key i Api secret**
 **5. Ustaw status subskrybenta:**
-1 - Aktywny - subskrybent wpadnie od razu do Twojej listy mailingowej, czyli nie potwierdza, że chce otrzymywać informacje (single opt-in)
-2 - Do aktywacji - subskrybent zanim wpadnie do Twojej listy mailingowej musi potwierdzić dodatkowo, że chce otrzymywać informacje (double opt-in)
+1 - Aktywny - subskrybent pojawi się od razu na Twojej liście mailingowej. Nie będzie musiał potwierdzać, że chce otrzymywać informacje (single opt-in).
+2 - Do aktywacji - subskrybent zanim pojawi się na Twojej liście mailingowej będzie musiał potwierdzić dodatkowo, że chce otrzymywać informacje (double opt-in).
 
 ![asdfasfasfas](_media/screen-freshmail-api.jpg)
+
+Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
 
 <br>
 
@@ -716,6 +718,8 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 ![asdfasfasfas](_media/screen-mailchimp-7.jpg)
 
+E-maile studentów będą pojawiać na liście, której ID zostanie wskazane w integracji.
+
 <br>
 
 #### Mailerlite
@@ -729,7 +733,26 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 ![asdfasfasfas](_media/screen-mailerlite-2.jpg)
 
+Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
 
+#### GetResponse
+
+**Gdzie znaleźć Api key i List token?**
+
+**Gdzie znaleźć Api key?**
+**1. Wybierz Menu -> Integracje & API -> API -> Wygeneruj klucz API**
+![asdfasfasfas](_media/screen-getresponse-1.jpg)
+
+**2. Gdzie znaleźć List token?**
+**1. Wybierz Listy -> a następnie listę, w której powinny pojawiać się e-maile studentów. Jeśli takiej listy jeszcze nie posiadasz to kliknij przycisk Utwórz listę (pamiętaj, że nazwa listy musi zawierać wyłącznie małe litery).**
+
+![asdfasfasfas](_media/screen-getresponse-2.jpg)
+
+**2. Pod nazwą listy znajduje się List token.**
+
+![asdfasfasfas](_media/screen-getresponse-3.jpg)
+
+E-maile studentów będą pojawiać na liście, której token zostanie wskazany w integracji.
 
 
 
