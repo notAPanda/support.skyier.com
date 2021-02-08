@@ -683,16 +683,20 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 **Gdzie znaleźć Api key i Api secret?**
 
 **1. Wybierz Ustawienia** 
+
 **2. A następnie w menu po lewej stronie przejdź do: API&SMTP, Wtyczki**
+
 **3. Przejdź do: API&SMTP**
+
 **4. W sekcji Twoje klucze API znajdziesz Api key i Api secret**
-**5. Ustaw status subskrybenta:**
-1 - Aktywny - subskrybent pojawi się od razu na Twojej liście mailingowej. Nie będzie musiał potwierdzać, że chce otrzymywać informacje (single opt-in).
+
+**5. Ustaw status subskrybenta:**<br>
+1 - Aktywny - subskrybent pojawi się od razu na Twojej liście mailingowej. Nie będzie musiał potwierdzać, że chce otrzymywać informacje (single opt-in).<br>
 2 - Do aktywacji - subskrybent zanim pojawi się na Twojej liście mailingowej będzie musiał potwierdzić dodatkowo, że chce otrzymywać informacje (double opt-in).
 
 ![asdfasfasfas](_media/screen-freshmail-api.jpg)
 
-Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
+Po dokonaniu integracji, automatycznie we Freshmail'u pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
 
 <br>
 
@@ -701,11 +705,13 @@ Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie S
 **Gdzie znaleźć Api key i Audience id?**
 
 **Aby znaleźć Api key, wybierz:**
+
 **1. Settings -> Account -> Extras -> API Keys -> Your API keys**
 
-![asdfasfasfas](_media/screen-mailchimp-4.jpg)
+![asdfasfasfas](_media/screen-mailchimp-8.jpg)
 
 **Aby znaleźć Audience id, wybierz:**
+
 **1. Audience -> Audience dashboard -> Manage Audience -> View audiences**
 
 ![asdfasfasfas](_media/screen-mailchimp-5.jpg)
@@ -714,17 +720,18 @@ Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie S
 
 ![asdfasfasfas](_media/screen-mailchimp-6.jpg)
 
-**3. Audience name and defaults -> Audience ID (napisane czerwonym kolorem fontu)**
+**3. A następnie Audience name and defaults -> Audience ID (napisane czerwonym kolorem fontu)**
 
 ![asdfasfasfas](_media/screen-mailchimp-7.jpg)
 
-E-maile studentów będą pojawiać na liście, której ID zostanie wskazane w integracji.
+E-maile studentów będą pojawiać na liście, której Audience ID zostanie wskazane w integracji.
 
 <br>
 
 #### Mailerlite
 
 **Gdzie znaleźć Api key?**
+
 **1. Wybierz Ustawienia -> Integrations**
 
 ![asdfasfasfas](_media/screen-mailerlite-1.jpg)
@@ -740,10 +747,12 @@ Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie S
 **Gdzie znaleźć Api key i List token?**
 
 **Gdzie znaleźć Api key?**
+
 **1. Wybierz Menu -> Integracje & API -> API -> Wygeneruj klucz API**
 ![asdfasfasfas](_media/screen-getresponse-1.jpg)
 
 **2. Gdzie znaleźć List token?**
+
 **1. Wybierz Listy -> a następnie listę, w której powinny pojawiać się e-maile studentów. Jeśli takiej listy jeszcze nie posiadasz to kliknij przycisk Utwórz listę (pamiętaj, że nazwa listy musi zawierać wyłącznie małe litery).**
 
 ![asdfasfasfas](_media/screen-getresponse-2.jpg)
