@@ -392,7 +392,7 @@ Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany k
 
 2. Kliknąć w ikonkę **$, a następnie user-**. Wówczas ikonki zmienią się na ikonki **user+ i prezent**. Co będzie oznaczało, że lekcja będzie dostępna po zalogowaniu.
 
-![asdfasfasfas](_media/screen-lekcja-darmowa-logowanie.jpg)
+![asdfasfasfas](_media/screen-lekcja-darmowa-logowanie.png)
 
 Na liście lekcji (pod warunkiem, że na stronie sprzedażowej zostanie dodany komponent LISTA LEKCJI), pokaże się call to action *Oglądaj za darmo*, po kliknięciu, w który użytkownik będzie musiał zalogować się, aby przejść do obejrzenia lekcji. 
 
@@ -452,7 +452,7 @@ Aby włączyć model sprzedaży subskrypcyjnej i jednorazowej należy przejść 
 
 1. Aby ustawić pakiety subskrypcyjne należy przejść do **Ustawiń konta -> Model pobierania płatności, a następnie przy opcji *Model subskrypcyjny* wybrać opcję: *Opcje planów*.**
 
-![asdfasfasfas](_media/screen-sub-plany.jpg)
+![asdfasfasfas](_media/screen-sub-plany.png)
 
 2. A następnie wybrać odpowiednie **plany subskrypcyjne.**
 
@@ -630,21 +630,21 @@ Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy
 
 #### Pakiety
 
-1. Aby stworzyć pakiet składający się z 2,3,4 czy nawet większej ilości kursów należy wybrać opcję **Kursy**. 
+1. Aby stworzyć pakiet składający się z 2,3,4 czy nawet większej ilości kursów należy wybrać zakładkę **PRODUKTY**. 
 
-2. Następnie kliknij przycisk **+Dodaj pakiet**. 
+2. Następnie kliknij przycisk **+Dodaj produkt**. 
 
-![asdfasfasfas](_media/screen-kursy-pakiety.jpg)
+3. Podaj nazwę pakietu (tą nazwę będzie można potem zmienić) i wybieram wariant **Pakiet**.
 
-3. Podaj nazwę pakietu (tą nazwę będzie można potem zmienić).
-
-![asdfasfasfas](_media/screen-kursy-dodaj-pakiet.jpg)
+![asdfasfasfas](_media/screen-pakiet.jpg)
 
 4. **Stwórz pakiet z wybranymi kursami**
 
 ![asdfasfasfas](_media/tworzenie-pakietu.gif)
 
-Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały zawarte w pakiecie. 
+Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały zawarte w pakiecie. Jeśli jakiś kurs zostanie usunięty z pakietu to automatycznie student również traci do niego dostęp. Jeśli natomiast jakiś kurs zostanie dodany do pakietu, to automatycznie student zyskuje do niego dostęp.
+
+**W skład pakietu nie mogą wchodzi Konsultacje.** 
 
 <br/>
 
