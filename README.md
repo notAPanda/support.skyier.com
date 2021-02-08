@@ -694,27 +694,41 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 <br>
 
-### Mailchimp
+#### Mailchimp
 
 **Gdzie znaleźć Api key i Audience id?**
 
 Aby znaleźć Api key, wybierz:
-Settings -> Account -> Extras -> API Keys -> Your API keys
+1. Settings -> Account -> Extras -> API Keys -> Your API keys
 
 ![asdfasfasfas](_media/screen-mailchimp-4.jpg)
 
 Aby znaleźć Audience id, wybierz:
-Audience -> Audience dashboard -> Manage Audience -> View audiences
+1. Audience -> Audience dashboard -> Manage Audience -> View audiences
 
 ![asdfasfasfas](_media/screen-mailchimp-5.jpg)
 
-Wybierz listę -> Settings 
+2. Wybierz listę -> Settings 
 
 ![asdfasfasfas](_media/screen-mailchimp-6.jpg)
 
-Audience name and defaults -> Audience ID (napisane czerwonym kolorem fontu)
+3. Audience name and defaults -> Audience ID (napisane czerwonym kolorem fontu)
 
 ![asdfasfasfas](_media/screen-mailchimp-7.jpg)
+
+#### Mailerlite
+
+**Gdzie znaleźć Api key?**
+1. Wybierz Ustawienia -> Integrations
+
+![asdfasfasfas](_media/screen-mailerlite-1.jpg)
+
+2. Developer API -> API key
+
+![asdfasfasfas](_media/screen-mailerlite-2.jpg)
+
+
+
 
 
 
