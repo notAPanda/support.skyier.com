@@ -682,11 +682,11 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 **Gdzie znaleźć Api key i Api secret?**
 
-1. Wybierz Ustawienia 
-2. A następnie w menu po lewej stronie przejdź do: API&SMTP, Wtyczki
-3. Przejdź do: API&SMTP
-4. W sekcji Twoje klucze API znajdziesz Api key i Api secret
-5. Ustaw status subskrybenta:
+**1. Wybierz Ustawienia** 
+**2. A następnie w menu po lewej stronie przejdź do: API&SMTP, Wtyczki**
+**3. Przejdź do: API&SMTP**
+**4. W sekcji Twoje klucze API znajdziesz Api key i Api secret**
+**5. Ustaw status subskrybenta:**
 1 - Aktywny - subskrybent wpadnie od razu do Twojej listy mailingowej, czyli nie potwierdza, że chce otrzymywać informacje (single opt-in)
 2 - Do aktywacji - subskrybent zanim wpadnie do Twojej listy mailingowej musi potwierdzić dodatkowo, że chce otrzymywać informacje (double opt-in)
 
@@ -698,32 +698,34 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 **Gdzie znaleźć Api key i Audience id?**
 
-Aby znaleźć Api key, wybierz:
-1. Settings -> Account -> Extras -> API Keys -> Your API keys
+**Aby znaleźć Api key, wybierz:**
+**1. Settings -> Account -> Extras -> API Keys -> Your API keys**
 
 ![asdfasfasfas](_media/screen-mailchimp-4.jpg)
 
-Aby znaleźć Audience id, wybierz:
-1. Audience -> Audience dashboard -> Manage Audience -> View audiences
+**Aby znaleźć Audience id, wybierz:**
+**1. Audience -> Audience dashboard -> Manage Audience -> View audiences**
 
 ![asdfasfasfas](_media/screen-mailchimp-5.jpg)
 
-2. Wybierz listę -> Settings 
+**2. Wybierz listę -> Settings** 
 
 ![asdfasfasfas](_media/screen-mailchimp-6.jpg)
 
-3. Audience name and defaults -> Audience ID (napisane czerwonym kolorem fontu)
+**3. Audience name and defaults -> Audience ID (napisane czerwonym kolorem fontu)**
 
 ![asdfasfasfas](_media/screen-mailchimp-7.jpg)
+
+<br>
 
 #### Mailerlite
 
 **Gdzie znaleźć Api key?**
-1. Wybierz Ustawienia -> Integrations
+**1. Wybierz Ustawienia -> Integrations**
 
 ![asdfasfasfas](_media/screen-mailerlite-1.jpg)
 
-2. Developer API -> API key
+**2. Developer API -> API key**
 
 ![asdfasfasfas](_media/screen-mailerlite-2.jpg)
 
