@@ -740,7 +740,7 @@ E-maile studentów będą pojawiać na liście, której Audience ID zostanie wsk
 
 ![asdfasfasfas](_media/screen-mailerlite-2.jpg)
 
-Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
+Po dokonaniu integracji, automatycznie w Mailerlite pojawi się lista o nazwie Skyier, w której będą pojawiać się e-maile studentów.
 
 #### GetResponse
 
@@ -748,10 +748,12 @@ Po dokonaniu integracji, automatycznie we Freshmail pojawi się lista o nazwie S
 
 **Gdzie znaleźć Api key?**
 
-**1. Wybierz Menu -> Integracje & API -> API -> Wygeneruj klucz API**
+**1. Wybierz Menu -> Integracje & API**
 ![asdfasfasfas](_media/screen-getresponse-1.jpg)
 
-**2. Gdzie znaleźć List token?**
+**2. A następnie API -> Wygeneruj klucz API**
+
+**Gdzie znaleźć List token?**
 
 **1. Wybierz Listy -> a następnie listę, w której powinny pojawiać się e-maile studentów. Jeśli takiej listy jeszcze nie posiadasz to kliknij przycisk Utwórz listę (pamiętaj, że nazwa listy musi zawierać wyłącznie małe litery).**
 
