@@ -686,8 +686,28 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 2. A następnie w menu po lewej stronie przejdź do: API&SMTP, Wtyczki
 3. Przejdź do: API&SMTP
 4. W sekcji Twoje klucze API znajdziesz Api key i Api secret
+5. Ustaw status subskrybenta:
+1 - Aktywny - subskrybent wpadnie od razu do Twojej listy mailingowej, czyli nie potwierdza, że chce otrzymywać informacje (single opt-in)
+2 - Do aktywacji - subskrybent zanim wpadnie do Twojej listy mailingowej musi potwierdzić dodatkowo, że chce otrzymywać informacje (double opt-in)
 
-![asdfasfasfas](_media/freshmail-api.png)
+![asdfasfasfas](_media/screen-freshmail-api.jpg)
+
+<br>
+
+### Mailchimp
+
+**Gdzie znaleźć Api key i Audience id?**
+
+Aby znaleźć Api key, wybierz:
+Ustawienia -> Account -> Extras -> API Keys -> Your API keys
+
+![asdfasfasfas](_media/screen-mailchimp-1.png)
+![asdfasfasfas](_media/screen-mailchimp-2.png)
+
+
+
+
+
 
 
 
