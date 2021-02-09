@@ -803,7 +803,7 @@ Wybór środowiska:<br>
 
 ![asdfasfasfas](_media/screen-dotpay-1.jpg)
 
-**Dodatkowo trzeba pamiętać o ustawieniu statusu NIE w kolumnie Blokuj zewnętrzne urlc. Aby to zmienić należy wejść w edycję sklepu o odznaczyć pole Blokuj zewnętrzne urlc.**
+**Dodatkowo trzeba pamiętać o ustawieniu statusu NIE w kolumnie Blokuj zewnętrzne urlc. Aby to zmienić należy wejść w Edycję sklepu i odznaczyć pole Blokuj zewnętrzne urlc.**
 
 ![asdfasfasfas](_media/screen-dotpay-2.jpg)
 
@@ -823,12 +823,11 @@ Wybór środowiska:<br>
 
 **2. Wybieramy ponownie Punkt płatności i przechodzimy do szczegółówych informacji, na jego temat.**
 
-![asdfasfasfas](_media/screen-payu-2.jpg)
+![asdfasfasfas](_media/screen-payu-3.jpg)
 
-**Dodatkowo trzeba pamiętać, aby przy tworzeniu sklepu podać adres url platformy, np. https://kursy.skyier.pl**
+**Dodatkowo trzeba pamiętać, aby przy tworzeniu sklepu podać adres url platformy.**
 
-
-
+<br>
 
 #### PayPal
 #### TPay
