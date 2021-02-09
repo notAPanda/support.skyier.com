@@ -767,6 +767,74 @@ Po dokonaniu integracji, automatycznie w Mailerlite pojawi się lista o nazwie S
 
 E-maile studentów będą pojawiać na liście, której token zostanie wskazany w integracji.
 
+<br>
+
+### Integracje z systemami płatności
+
+#### Przelewy24
+
+Wybór środowiska:<br>
+- Produkcyjne - ustawiamy, kiedy chcemy przyjmować już faktyczne płatności.
+- Testowe - Sandbox - ustawiamy, kiedy chcemy przeprowadzić płatność testową. Tryb testowy działa po aktywacji konta Sandbox w systemie Przelewy24. I dla trybu testowego obowiązuje inny klucz CRC niż dla środowiska produkcyjnego. Pamiętaj o tym, w momencie przeprowadzania płatności testowych. 
+
+**Gdzie znaleźć ID Sprzedawcy, ID Sklepu, Klucz CRC?**
+
+**ID Sprzedawcy - to identyfikator Twojego konta w systemie Przelewy24, który został nadany przy rejestracji w serwisie. Inaczej mówiąc, jest to numer, którym logujesz się do Przelewy24.**
+
+**ID Sklepu - to również identyfikator Twojego konta w systemie Przelewy24, który został nadany przy rejestracji w serwisie. Inaczej mówiąc, jest to numer, którym logujesz się do Przelewy24. I jest on identyczny jak w przypadku ID Sprzedawcy.**
+
+**Klucz CRC - klucz możesz pobrać w zakładce Moje dane -> Ustawienia -> Dane API i konfiguracja.**
+
+<br>
+
+#### Dotpay
+
+Wybór środowiska:<br>
+- Produkcyjne - ustawiamy, kiedy chcemy przyjmować już faktyczne płatności.
+- Testowe - Sandbox - ustawiamy, kiedy chcemy przeprowadzić płatność testową. 
+
+**Gdzie znaleźć ID Sklepu i PIN?**
+
+**Wybierz Ustawienia -> Powiadomienia -> Konfiguracja urlc**
+
+**Numer ID Sklepu to 6-cyfrowy numer znajdujący się przed "hasztagiem".**
+
+**PIN - ciąg znaków przypisany do danego Sklepu.**
+
+![asdfasfasfas](_media/screen-dotpay-1.jpg)
+
+**Dodatkowo trzeba pamiętać o ustawieniu statusu NIE w kolumnie Blokuj zewnętrzne urlc. Aby to zmienić należy wejść w edycję sklepu o odznaczyć pole Blokuj zewnętrzne urlc.**
+
+![asdfasfasfas](_media/screen-dotpay-2.jpg)
+
+<br>
+
+#### PayU
+
+Wybór środowiska:<br>
+- Produkcyjne - ustawiamy, kiedy chcemy przyjmować już faktyczne płatności.
+- Testowe - Sandbox - ustawiamy, kiedy chcemy przeprowadzić płatność testową. 
+
+**Gdzie znaleźć Pos id, MD5, Client id, Client secret?**
+
+**1. Wybierz Płatności elektroniczne -> Moje sklepy -> Punkty płatności wybranego sklepu**
+
+![asdfasfasfas](_media/screen-payu-1.jpg)
+
+**2. Wybieramy ponownie Punkt płatności i przechodzimy do szczegółówych informacji, na jego temat.**
+
+![asdfasfasfas](_media/screen-payu-2.jpg)
+
+**Dodatkowo trzeba pamiętać, aby przy tworzeniu sklepu podać adres url platformy, np. https://kursy.skyier.pl**
+
+
+
+
+#### PayPal
+#### TPay
+#### Stripe
+
+
 
 
 
