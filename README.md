@@ -873,13 +873,13 @@ Wybór środowiska:<br>
 
 ![asdfasfasfas](_media/screen-tpay-3.jpg)
 
-Przy pierwszej konfiguracji tej strony trzeba wygenerować Kod weryfikacyjny i ustawić Hasło API.
+**Przy pierwszej konfiguracji tej strony trzeba wygenerować Kod weryfikacyjny i ustawić Hasło API.**
 
 W przypadku:
 
-- Algorytmu podpisu - ustaw sha1
-- Adresu url powiadomień - podaj: https://nazwadomeny.pl/api/tpay/subscription/notify
-- Adres url powrotny (powodzenia i błąd) - podaj nazwę strony, czyli: https://nazwadomeny.pl
+**- Algorytmu podpisu - ustaw sha1**
+**- Adresu url powiadomień - podaj: https://nazwadomeny.pl/api/tpay/subscription/notify**
+**- Adres url powrotny (powodzenia i błąd) - podaj nazwę strony, czyli: https://nazwadomeny.pl**
 
 
 #### Stripe
