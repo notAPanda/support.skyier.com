@@ -914,7 +914,6 @@ Jeśli płatności subskrypcyjne przechodzą poprawnie należy napisać do TPay 
 
 ![asdfasfasfas](_media/screen-stripe-4.jpg)
 
-Aby włączyć konto testowe należy zaznaczyć *Viewing test data.*
 
 
 
