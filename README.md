@@ -865,7 +865,7 @@ Wybór środowiska:<br>
 
 <br>
 
-#### Jeśli prowadzisz sprzedaż subskrypcyjną kursów to dodatkowo wypełnij pola: Klucz API, Kod weryfikacyjny, Hasło API, Klucz publiczny RSA, Algorytm podpisu.
+##### Jeśli prowadzisz sprzedaż subskrypcyjną kursów to dodatkowo wypełnij pola: Klucz API, Kod weryfikacyjny, Hasło API, Klucz publiczny RSA, Algorytm podpisu.
 
 **Gdzie znaleźć te informacje?**
 
@@ -878,7 +878,9 @@ Wybór środowiska:<br>
 W przypadku:
 
 **- Algorytmu podpisu - ustaw sha1**
+
 **- Adresu url powiadomień - podaj: https://nazwadomeny.pl/api/tpay/subscription/notify**
+
 **- Adres url powrotny (powodzenia i błąd) - podaj nazwę strony, czyli: https://nazwadomeny.pl**
 
 
