@@ -861,7 +861,7 @@ Wybór środowiska:<br>
 
 **Kod bezpieczeństwa znajdziesz: Menu -> Ustawienia -> Powiadomienia -> Bezpieczeństwo.**
 
-![asdfasfasfas](_media/screen-tpay-1.jpg)
+![asdfasfasfas](_media/screen-tpay-2.jpg)
 
 <br>
 
