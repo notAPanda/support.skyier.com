@@ -779,9 +779,9 @@ Wybór środowiska:<br>
 
 **Gdzie znaleźć ID Sprzedawcy, ID Sklepu, Klucz CRC?**
 
-**ID Sprzedawcy - to identyfikator Twojego konta w systemie Przelewy24, który został nadany przy rejestracji w serwisie. Inaczej mówiąc, jest to numer, którym logujesz się do Przelewy24.**
+**ID Sprzedawcy - identyfikator Twojego konta w systemie Przelewy24, który został nadany przy rejestracji w serwisie. Inaczej mówiąc, jest to numer, którym logujesz się do Przelewy24.**
 
-**ID Sklepu - to również identyfikator Twojego konta w systemie Przelewy24, który został nadany przy rejestracji w serwisie. Inaczej mówiąc, jest to numer, którym logujesz się do Przelewy24. I jest on identyczny jak w przypadku ID Sprzedawcy.**
+**ID Sklepu - identyfikator Twojego konta w systemie Przelewy24, który został nadany przy rejestracji w serwisie. Inaczej mówiąc, jest to numer, którym logujesz się do Przelewy24. I jest on identyczny jak w przypadku ID Sprzedawcy.**
 
 **Klucz CRC - klucz możesz pobrać w zakładce Moje dane -> Ustawienia -> Dane API i konfiguracja.**
 
@@ -830,7 +830,58 @@ Wybór środowiska:<br>
 <br>
 
 #### PayPal
+
+Wybór środowiska:<br>
+- Produkcyjne - ustawiamy, kiedy chcemy przyjmować już faktyczne płatności.
+- Testowe - Sandbox - ustawiamy, kiedy chcemy przeprowadzić płatność testową. 
+
+**Gdzie znaleźć Secret i Client ID?**
+
+**1. Wejdź na stronę https://developer.paypal.com/home i zaloguj się do panelu**
+
+**2. Wybierz Dashboard -> My Apps & Credentials -> Live -> Create App**
+
+![asdfasfasfas](_media/screen-paypal-1.jpg)
+
+**3. Podaj nazwę App, aby wiedzieć, w jakim celu została utworzona -> Create App**
+
+![asdfasfasfas](_media/screen-paypal-2.jpg)
+
+<br>
+
 #### TPay
+
+##### Jeśli prowadzisz sprzedaż wyłącznie pojedynczych produktów (kursów online, pakietów, konsultacji) to wypełnij tylko pola: ID Sprzedawcy i Kod bezpieczeństwa.
+
+**Gdzie znaleźć ID Sprzedawcy i Kod bezpieczeństwa?**
+
+**ID Sprzedawcy - identyfikator Twojego konta w systemi TPay. Inaczej mówiąc jest to numer, którym logujesz się do panelu TPay.**
+
+![asdfasfasfas](_media/screen-tpay-1.jpg)
+
+**Kod bezpieczeństwa znajdziesz: Menu -> Ustawienia -> Powiadomienia -> Bezpieczeństwo.**
+
+![asdfasfasfas](_media/screen-tpay-1.jpg)
+
+<br>
+
+#### Jeśli prowadzisz sprzedaż subskrypcyjną kursów to dodatkowo wypełnij pola: Klucz API, Kod weryfikacyjny, Hasło API, Klucz publiczny RSA, Algorytm podpisu.
+
+**Gdzie znaleźć te informacje?**
+
+**Wejdź w Menu -> Płatności kartami -> API**
+
+![asdfasfasfas](_media/screen-tpay-3.jpg)
+
+Przy pierwszej konfiguracji tej strony trzeba wygenerować Kod weryfikacyjny i ustawić Hasło API.
+
+W przypadku:
+
+- Algorytmu podpisu - ustaw sha1
+- Adresu url powiadomień - podaj: https://nazwadomeny.pl/api/tpay/subscription/notify
+- Adres url powrotny (powodzenia i błąd) - podaj nazwę strony, czyli: https://nazwadomeny.pl
+
+
 #### Stripe
 
 
