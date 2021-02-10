@@ -885,6 +885,7 @@ W przypadku:
 
 Jeśli płatności subskrypcyjne przechodzą poprawnie należy napisać do TPay prośbę o aktywacji konta produkcyjnego. Bo, w innym przypadku będzie działało konto testowe. 
 
+<br>
 
 #### Stripe
 
