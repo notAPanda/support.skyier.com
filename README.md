@@ -883,8 +883,38 @@ W przypadku:
 
 **- Adres url powrotny (powodzenia i błąd) - podaj nazwę strony, czyli: https://nazwadomeny.pl**
 
+Jeśli płatności subskrypcyjne przechodzą poprawnie należy napisać do TPay prośbę o aktywacji konta produkcyjnego. Bo, w innym przypadku będzie działało konto testowe. 
+
 
 #### Stripe
+
+**Gdzie znaleźć Publishable Api Key, Secret Api Key i Webhook Singing Secret?**
+
+**Publishable Api Key i Secret Api Key znajdziesz: Developers -> API keys -> Standard keys**
+
+**Aby poznać Secret key kliknij *Reveal live key***
+
+![asdfasfasfas](_media/screen-stripe-1.jpg)
+
+**Aby ustawić Webhook Singing Secret należy najpierws ustawić Endpoint. Aby to zrobić przejdź do: Developers -> Webhooks -> Add endpoint.**
+
+![asdfasfasfas](_media/screen-stripe-2.jpg)
+
+**Następnie w polu**
+
+**- Url endpoint podaj adres url, który ma taką strukturę: nazwadomeny.pl/api/stripe/notifictions**
+
+**- w Events to send wybierz następujące eventy: checkout.session.completed, charge.refunded**
+
+![asdfasfasfas](_media/screen-stripe-3.jpg)
+
+**Webhook Singing Secret znajdziesz: Developers -> Webhooks -> wybrany Endpoints (kliknij adres url, który stworzyłeś we wcześniejszym kroku) -> Signing Secret.**
+
+**Aby poznać Webhook Signing Secret kliknij *Reveal live key***
+
+![asdfasfasfas](_media/screen-stripe-4.jpg)
+
+Aby włączyć konto testowe należy zaznaczyć *Viewing test data.*
 
 
 
