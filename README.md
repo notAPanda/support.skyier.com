@@ -851,7 +851,7 @@ Wybór środowiska:<br>
 
 #### TPay
 
-##### Jeśli prowadzisz sprzedaż wyłącznie pojedynczych produktów (kursów online, pakietów, konsultacji) to wypełnij tylko pola: ID Sprzedawcy i Kod bezpieczeństwa.
+##### Jeśli prowadzisz sprzedaż wyłącznie pojedynczych produktów (kursów online, pakietów, konsultacji) to wypełnij pola: ID Sprzedawcy, Kod bezpieczeństwa, api_key i api_password.
 
 **Gdzie znaleźć ID Sprzedawcy i Kod bezpieczeństwa?**
 
@@ -862,6 +862,8 @@ Wybór środowiska:<br>
 **Kod bezpieczeństwa znajdziesz: Menu -> Ustawienia -> Powiadomienia -> Bezpieczeństwo.**
 
 ![asdfasfasfas](_media/screen-tpay-2.jpg)
+
+**Api_key i api_password znajdziesz: Menu -> Ustawienia -> api.**
 
 <br>
 
