@@ -897,7 +897,7 @@ Jeśli płatności subskrypcyjne przechodzą poprawnie należy napisać do TPay 
 
 **Aby poznać Secret key kliknij *Reveal live key***
 
-![asdfasfasfas](_media/screen-stripe-1.jpg)
+![asdfasfasfas](_media/screen-stripe-1.png)
 
 **Aby ustawić Webhook Singing Secret należy najpierws ustawić Endpoint. Aby to zrobić przejdź do: Developers -> Webhooks -> Add endpoint.**
 
