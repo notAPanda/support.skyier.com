@@ -620,13 +620,11 @@ Jeśli ustawisz opóźnienie drugiej sekcji o 2 dni, a opóźnienie trzeciej sek
 
 1. Aby zacząć zbierać leady (adresy e-mail) należy na **stronie sprzedażowej dodać komponent ZBIERANIE LEADÓW.**
 
-![asdfasfasfas](_media/screen-leady.jpg)
-
 2. Wówczas na stronie pojawi się **krótki formularz, z polami: e-mail i imię.** 
 
 ![asdfasfasfas](_media/screen-formularz.png)
 
-Statystyki na temat ilości zebranych leadów można znaleźć **w zakładce Leads.** 
+Statystyki na temat ilości zebranych leadów można znaleźć **w zakładce Leady.** 
 
 ![asdfasfasfas](_media/screen-lead.jpg)
 
