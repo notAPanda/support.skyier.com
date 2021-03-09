@@ -525,8 +525,6 @@ Aby opublikować artykuł należy kliknąć szary przełącznik. **Po kliknięci
 
 2. A następnie **Kody promocyjne.**
 
-![asdfasfasfas](_media/screen-wl-kody.jpg)
-
 3. Kliknij w **przycisk Dodaj** i pojawi się krótki formularz do wypełnienia.
 
 ![asdfasfasfas](_media/screen-ustawienie-kodu.png)
@@ -539,7 +537,7 @@ Podaj:
 * **wartość** - w zależności od wybranego rodzaju ustalamy wielkość rabatu procentowego (np. 30, co oznacza 30%) lub kwotowego (np. 20, co oznacza 20 zł).
 * **ilość** - ustalamy ilość dostępnych kodów rabatowych. Pozostawienie pola pustego oznacza nieograniczoną ilość. 
 
-**4. Wybierz kursy, jakie kod będzie obejmował:**
+**4. Wybierz kursy, dla których chcesz zastosować kod:**
 
 * **wszystkie kursy** - kod będzie naliczał rabat na wszystkie produkty, jakie posiadasz w ofercie. Czyli na kursy pojedyncze, pakiety, konsultacje i subskrypcje. 
 * **subskrypcja** - kod będzie obejmował wyłącznie rabat na ofertę subskrypcyjną. 
@@ -583,6 +581,16 @@ I wówczas taki link przyjmie postać https://inspiracje.skyier.pl/pakiet-kurs-1
 <br>
 
 #### Sprzedaż kursu poza subskrypcją
+
+Jest to funkcja umożliwiająca sprzedaż kursu online poza abonamentem subskrypcyjnym. Jeśli prowadzisz platformę subskrypcją, ale chcesz sprzedać kurs, który nie powinien być dostępny dla klientów subskrypcyjnych, to jest to opcja, która Ci to umożliwi. 
+
+1. Aby ukryć kurs na Liście kursów należy wejść w **Edycję kursu.** 
+
+![asdfasfasfas](_media/screen-edycja-kursu.jpg)
+
+2. A następnie przejść do **sekcji SZCZEGÓŁY** i zaznaczyć opcję *Produkt sprzedawany poza subskrypcją*. 
+
+![asdfasfasfas](_media/screen-poza-subskrypcja.png)
 
 <br>
 
