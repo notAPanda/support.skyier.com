@@ -662,7 +662,7 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 1. Aby dodać studenta do platformy należy wybrać z górnego menu zakłądkę **STUDENCI**.
 2. A następnie kliknąć **Dodaj studenta**. W przypadku, kiedy chcemy dodać większą ilość osób wybieramy **Importuj studentów**. 
 
-![asdfasfasfas](_media/screen-dodawanie-studentow.jpg)
+![asdfasfasfas](_media/screen-dodawanie-studentow.png)
 
 3. Wpisujemy imię i adres e-mail studenta.
 
@@ -674,7 +674,7 @@ Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały
 
 5. Jeśli chcemy dać dostęp studentowi do kursu to możemy to zrobić na dwa sposoby:
 
-- klikamy w e-mail studenta i przechodzimy na stronę, gdzie wybieramy kurs
+- klikamy w e-mail studenta i przechodzimy na stronę, gdzie wybieramy kurs, do którego chcemy nadać dostęp
 
 ![asdfasfasfas](_media/screen-dostep-kurs.jpg)
 
