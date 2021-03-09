@@ -602,11 +602,11 @@ Jest to funkcja umożliwiająca sprzedaż kursu online poza abonamentem subskryp
 
 2. A następnie na poziomie sekcji wybrać opcję *Ustaw opóźnienie sekcji*.
 
-![asdfasfasfas](_media/screen-opoznienie.jpg)
+![asdfasfasfas](_media/screen-opoznienie-sekcji.png)
 
 3. I podać, po **ilu dniach od zakupu** ma być dostępna sekcja z lekcjami. 
 
-![asdfasfasfas](_media/screen-wpisanie-dni.png)
+![asdfasfasfas](_media/screen-opoznianie-dni.png)
 
 **Opóźnienie ustawia się na poziomie całej sekcji, a nie poszczególnych lekcji.** Jeśli chcesz, aby opóźnienie dostępu następowało na każdej lekcji, wówczas każda lekcja powinna być w oddzielnej sekcji. 
 
@@ -638,13 +638,13 @@ Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy
 
 #### Pakiety
 
-1. Aby stworzyć pakiet składający się z 2,3,4 czy nawet większej ilości kursów należy wybrać zakładkę **PRODUKTY**. 
+1. Aby stworzyć pakiet składający się z 2,3,4 czy nawet większej ilości kursów wybiezr zakładkę **PRODUKTY**. 
 
-2. Następnie kliknij przycisk **+Dodaj produkt**. 
+2. Następnie kliknij przycisk **Dodaj produkt**. 
 
-3. Podaj nazwę pakietu (tą nazwę będzie można potem zmienić) i wybieram wariant **Pakiet**.
+3. Podaj nazwę pakietu (tą nazwę będzie można potem zmienić) i zaznacz wariant **Pakiet**.
 
-![asdfasfasfas](_media/screen-pakiet.jpg)
+![asdfasfasfas](_media/screen-pakiet.png)
 
 4. **Stwórz pakiet z wybranymi kursami**
 
@@ -652,7 +652,7 @@ Jeśli natomiast chcesz zbierać leady również na stronie głównej to należy
 
 Po zakupie użytkownik automatycznie otrzyma dostęp do kursów, które zostały zawarte w pakiecie. Jeśli jakiś kurs zostanie usunięty z pakietu to automatycznie student również traci do niego dostęp. Jeśli natomiast jakiś kurs zostanie dodany do pakietu, to automatycznie student zyskuje do niego dostęp.
 
-**W skład pakietu nie mogą wchodzi Konsultacje.** 
+**W skład pakietu nie wchodzi produkt, typu Konsultacje. Pakiet może składać się wyłącznie z Kursów online**. 
 
 <br/>
 
